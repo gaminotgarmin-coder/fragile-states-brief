@@ -200,7 +200,7 @@ button { cursor: pointer; }
 .subhead span { font-size: var(--t-small); color: var(--muted); }
 .rel .story { padding-block: var(--s4); }
 
-/* 면담 자료 */
+/* 요약 자료 */
 .brief { margin-top: var(--s4); padding: var(--s4) var(--s5) var(--s5); background: var(--paper-2); border-top: 2px solid var(--ink); }
 .brief__head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: var(--s2) var(--s4); }
 .brief__head h3 { font-size: 1.125rem; font-weight: 900; }
@@ -311,7 +311,7 @@ button { cursor: pointer; }
         <div class="orgmain">
           <div class="orghead"><h2 data-org-title>전체 기구</h2><p data-org-sub></p></div>
           <div class="brief" data-brief hidden>
-            <div class="brief__head"><h3>면담 자료 만들기</h3><p data-brief-count></p></div>
+            <div class="brief__head"><h3>요약 자료 만들기</h3><p data-brief-count></p></div>
             <div class="brief__opts">
               <button type="button" class="txtbtn" data-pickall="1">모두 고르기</button>
               <button type="button" class="txtbtn" data-pickall="0">모두 빼기</button>
@@ -508,7 +508,7 @@ button { cursor: pointer; }
     const open = ui.open.has(s.id);
     const orgs = s.orgs.map((o) => `<button type="button" class="tag tag--org" data-goorg="${esc(o)}" title="${esc(orgLabel(o))}">${esc(orgAbbr(o))}</button>`).join('');
     const topics = s.topics.map((t) => `<button type="button" class="tag" data-gotopic="${esc(t)}">${esc(t)}</button>`).join('');
-    const pick = pickable ? `<label class="pick"><input type="checkbox" data-pick="${s.id}"${ui.picks.has(s.id) ? ' checked' : ''}> 면담 자료에 넣기</label>` : '';
+    const pick = pickable ? `<label class="pick"><input type="checkbox" data-pick="${s.id}"${ui.picks.has(s.id) ? ' checked' : ''}> 요약 자료에 넣기</label>` : '';
     return `<article class="story${open ? '' : ' clamp'}" data-region="${s.region}" data-id="${s.id}">
       <p class="kicker"><span class="rg">${esc(REGIONS[s.region] || '')}</span><span class="ct">${esc(s.country_label)}</span></p>
       <h3 class="headline">${esc(s.headline)}</h3>
@@ -521,7 +521,7 @@ button { cursor: pointer; }
   function eventHtml(e, pickable) {
     const orgs = [e.org, ...(e.also || [])].map((o, i) => `<button type="button" class="tag${i === 0 ? ' is-lead' : ''}" data-oorg="${esc(o)}" title="${esc(orgLabel(o))}">${esc(orgAbbr(o))}</button>`).join('');
     const first = e.summary.split(/\n\n+/)[0];
-    const pick = pickable ? `<label class="pick"><input type="checkbox" data-pick="${e.id}"${ui.picks.has(e.id) ? ' checked' : ''}> 면담 자료에 넣기</label>` : '';
+    const pick = pickable ? `<label class="pick"><input type="checkbox" data-pick="${e.id}"${ui.picks.has(e.id) ? ' checked' : ''}> 요약 자료에 넣기</label>` : '';
     return `<article class="event" data-id="${e.id}">
       <div class="event__when">${md(e.date)}<small>${esc(e.type)}</small></div>
       <div><p class="event__orgs">${orgs}</p>
@@ -652,7 +652,7 @@ button { cursor: pointer; }
     else title.textContent = o ? o.name_ko : state.oorg;
     $('[data-org-sub]').textContent = state.oorg
       ? (o ? `${o.name_en}${o.koica_partner ? ', KOICA 공여 기구' : ''}` : '기구 목록에 없는 코드입니다 (미등록)')
-      : `${label}의 기구 동향을 최신순으로 실었습니다. 왼쪽 색인에서 기구를 고르면 그 기구의 동향과 관련 기사를 모아 면담 자료로 복사할 수 있습니다.`;
+      : `${label}의 기구 동향을 최신순으로 실었습니다. 왼쪽 색인에서 기구를 고르면 그 기구의 동향과 관련 기사를 모아 요약 자료로 복사할 수 있습니다. 11월 19일 호까지는 클리핑의 국제기구 섹션을 옮긴 것이고, 11월 20일 호부터는 매일 따로 수집한 동향이 더해집니다.`;
     $('[data-oside-sum]').textContent = [label, state.oorg ? orgAbbr(state.oorg) : '전체 기구'].join(', ');
     $('[data-org-count]').innerHTML = `기구 동향 <b>${fmtNum(evs.length)}</b>건`;
     const tl = $('[data-timeline]');
@@ -670,7 +670,7 @@ button { cursor: pointer; }
     renderBrief();
   }
 
-  // ---------- 면담 자료: 개조식 ----------
+  // ---------- 요약 자료: 개조식 ----------
   const sentences = (text, n) => text.split(/\n\n+/)[0].split(/(?<=[.!?])\s+(?=\S)/).slice(0, n).map((x) => x.trim()).filter(Boolean);
   const srcLine = (sources) => sources.map((x) => x.title).join(', ');
   function briefLines() {
