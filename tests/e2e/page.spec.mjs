@@ -37,7 +37,7 @@ try {
     const [sw, cw] = await page.evaluate(() => [document.documentElement.scrollWidth, document.documentElement.clientWidth]);
     check(`no horizontal scroll at ${width}px`, sw <= cw, `${sw} > ${cw}`);
     if (width === 1280) {
-      const folio = await page.locator('.folio').innerText();
+      const folio = await page.locator('.hero').innerText();
       check('folio shows latest issue', folio.includes(`제${manifest.latest_issue}호`), folio);
       check('folio shows story count', folio.replace(/,/g, '').includes(String(manifest.counts.stories)), folio);
     }
