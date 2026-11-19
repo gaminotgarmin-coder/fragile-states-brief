@@ -3082,5 +3082,245 @@
   ],
   "countries": [],
   "collected": "backfill"
+ },
+ {
+  "id": "o-20261120-01",
+  "issue": 18,
+  "issue_date": "2026-11-20",
+  "date": "2026-11-19",
+  "org": "COP",
+  "also": [
+   "UNSG"
+  ],
+  "type": "회의",
+  "title": "안탈리아 기후총회 2차 결정문 초안 공개, 화석연료 전환 문구 삭제… 폐막 시한 11월 20일",
+  "summary": "유엔 기후변화협약 당사국총회(COP31) 의장단이 19일 포괄 결정문 2차 초안을 냈다. 석탄, 석유, 가스 전환 언급이 빠졌고 2035년까지 최종에너지 중 전력 비중을 23%에서 35%로 높이는 전력화 목표와 적응재원 3배 목표(금액 미기재)는 남았다. 아프리카와 최빈국은 적응재원으로 연 최소 1,200억 달러를 요구한다.\n\n재원, 적응, 정의로운 전환 협상은 타결되지 않았다. 18일에는 2028년에 끝나는 제2차 전지구적 이행점검이 시작됐다.",
+  "numbers": [
+   "1,200억 달러",
+   "23%에서 35%",
+   "641억 달러"
+  ],
+  "note": "20일 최종 타결 여부는 확인되지 않았다.",
+  "sources": [
+   {
+    "title": "UN News (11.19)",
+    "url": "https://news.un.org/en/story/2026/11/1168839",
+    "date": "11.19"
+   },
+   {
+    "title": "UN News (11.18)",
+    "url": "https://news.un.org/en/story/2026/11/1168833",
+    "date": "11.18"
+   },
+   {
+    "title": "Climate Home News (11.19)",
+    "url": "https://www.climatechangenews.com/2026/11/19/cop31-antalya-turkiye-australia-ministers-agremeent-fossil-fuels-electrification/",
+    "date": "11.19"
+   }
+  ],
+  "countries": [],
+  "from_story": "s-20261120-20"
+ },
+ {
+  "id": "o-20261120-02",
+  "issue": 18,
+  "issue_date": "2026-11-20",
+  "date": "2026-11-18",
+  "org": "UNICEF",
+  "also": [],
+  "type": "성명",
+  "title": "유니세프 총재, 예멘 교전 격화 뒤 아동 최소 64명 사망 발표… 긴급 대응 최대 35만 명으로 확대",
+  "summary": "러셀 유니세프 총재가 18일 교전이 격화된 9월 3일 이후 예멘에서 아동 최소 64명이 숨지고 64명이 다쳤다고 밝히고, 분쟁 당사자에게 아동 보호와 인도적 접근 보장을 촉구했다. 피란민은 33만 명 이상이며 그중 아동이 약 17만 4천 명이다. 학교 최소 7곳과 보건시설 28곳이 피해를 입었고 1,160곳 넘는 학교가 문을 닫아 학생 50만 명 이상이 영향을 받았다.",
+  "numbers": [
+   "64명",
+   "33만 명",
+   "17만 4천 명",
+   "35만 명"
+  ],
+  "note": "자금 요청액은 발표에 없다.",
+  "sources": [
+   {
+    "title": "UN News (11.18)",
+    "url": "https://news.un.org/en/story/2026/11/1168830",
+    "date": "11.18"
+   }
+  ],
+  "countries": [
+   "예멘"
+  ],
+  "from_story": "s-20261120-04"
+ },
+ {
+  "id": "o-20261120-03",
+  "issue": 18,
+  "issue_date": "2026-11-20",
+  "date": "2026-11-18",
+  "org": "UNGA",
+  "also": [
+   "KOR",
+   "OHCHR"
+  ],
+  "type": "결의",
+  "title": "총회 제3위원회, 북한인권결의안 표결로 채택… 찬성 95, 반대 14, 기권 58",
+  "summary": "유엔 총회 제3위원회가 18일 북한인권결의안을 22년 연속 채택했다. 2016~2025년에는 합의로 채택됐으나 올해는 미국이 표결을 요청한 뒤 기권했고 2005년 이후 처음으로 공동제안국에서 빠졌다. 한국은 공동제안국으로 찬성했으며 결의안은 12월 총회 본회의에 상정된다.",
+  "numbers": [
+   "찬성 95",
+   "반대 14",
+   "기권 58",
+   "22년 연속"
+  ],
+  "note": "본회의 일자와 공동제안국 총수는 확인되지 않았다.",
+  "sources": [
+   {
+    "title": "연합뉴스, 코리아타임스 전재 (11.19)",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/others/20261119/un-committee-adopts-n-korean-human-rights-resolution-for-22nd-year",
+    "date": "11.19"
+   },
+   {
+    "title": "코리아중앙데일리 (11.19)",
+    "url": "https://www.koreajoongangdaily.com/korea/us-forces-first-vote-in-a-decade-on-north-korea-human-rights-resolution-at-un-then-abstains/12981331",
+    "date": "11.19"
+   }
+  ],
+  "countries": [],
+  "from_story": "s-20261120-21"
+ },
+ {
+  "id": "o-20261120-04",
+  "issue": 18,
+  "issue_date": "2026-11-20",
+  "date": "2026-11-18",
+  "org": "UNSG",
+  "also": [
+   "PKO",
+   "UNICEF"
+  ],
+  "type": "인사",
+  "title": "사무총장, 중앙아프리카공화국 특별대표 겸 평화유지임무단장에 모하메드 아그 아요야 임명",
+  "summary": "구테흐스 사무총장이 18일 말리 출신 모하메드 아그 아요야를 중앙아프리카공화국 특별대표 겸 유엔 다차원통합안정화임무단(MINUSCA) 단장에 임명했다. 전임자는 르완다 출신 발랑틴 루그와비자다. 아요야는 2023년 1월부터 임무단 부특별대표 겸 상주조정관, 인도주의조정관을 맡아 왔고 5개국에서 유니세프 대표를 지냈다.",
+  "numbers": [
+   "25년 이상"
+  ],
+  "note": "유엔 보도국 원문은 제목만 확인했고 취임일은 확인되지 않았다.",
+  "sources": [
+   {
+    "title": "African Newspage, 유엔 배포문 전재 (11.19)",
+    "url": "https://www.africannewspage.net/2026/11/secretary-general-appoints-mr-mohamed-ag-ayoya-of-mali-as-special-representative-for-the-central-african-republic-and-head-of-the-united-nations-multidimensional-integrated-stabilization-mission-in-t/",
+    "date": "11.19"
+   },
+   {
+    "title": "The New Times (11.19)",
+    "url": "https://www.newtimes.co.rw/article/40565/news/international/minusca-gets-new-head-as-rugwabizas-mandate-ends",
+    "date": "11.19"
+   },
+   {
+    "title": "유엔 보도국 (11.18)",
+    "url": "https://press.un.org/en/2026/sga2452.doc.htm",
+    "date": "11.18"
+   }
+  ],
+  "countries": [
+   "중앙아프리카공화국",
+   "말리"
+  ],
+  "from_story": "s-20261120-22"
+ },
+ {
+  "id": "o-20261120-05",
+  "issue": 18,
+  "issue_date": "2026-11-20",
+  "date": "2026-11-18",
+  "org": "UNSC",
+  "also": [],
+  "type": "회의",
+  "title": "안보리, 18일 리비아 관련 국제형사재판소 브리핑, 19일 대테러 산하기구 브리핑",
+  "summary": "안보리는 18일 오전 제10275차 회의에서 리비아 상황에 관한 국제형사재판소 브리핑을 받았다. 19일 오후 제10276차 회의에는 1267 제재위원회, 대테러위원회, 1540 위원회의 합동 브리핑이 잡혔다. 18~19일 결의 채택은 확인되지 않았다.",
+  "numbers": [
+   "제10275차",
+   "제10276차"
+  ],
+  "note": "회의 본문 기록은 열람하지 못해 발언 내용과 19일 회의 결과는 미확인이다.",
+  "sources": [
+   {
+    "title": "유엔 보도국 안보리 목록 (11.19)",
+    "url": "https://press.un.org/en/security-council",
+    "date": "11.19"
+   },
+   {
+    "title": "유엔 보도국 사전 안내 (11.18)",
+    "url": "https://press.un.org/en/blog/sc16513",
+    "date": "11.18"
+   },
+   {
+    "title": "유엔 보도국 사전 안내 (11.19)",
+    "url": "https://press.un.org/en/blog/sc16514",
+    "date": "11.19"
+   }
+  ],
+  "countries": []
+ },
+ {
+  "id": "o-20261120-06",
+  "issue": 18,
+  "issue_date": "2026-11-20",
+  "date": "2026-11-18",
+  "org": "UNGA",
+  "also": [
+   "UNRWA"
+  ],
+  "type": "결의",
+  "title": "총회 제4위원회 회기 종료, 팔레스타인 난민 구호기구 활동 결의안 찬성 143, 반대 9, 기권 20으로 승인",
+  "summary": "유엔 총회 제4위원회가 18일 회기를 마치며 팔레스타인 난민 구호기구(UNRWA) 활동, 이스라엘 정착촌, 시리아 골란 등 결의안 5건을 승인했다. 팔레스타인 통신에 따르면 난민 재산과 수익 결의안은 찬성 155, 반대 9, 기권 9, 정착촌 결의안은 찬성 143, 반대 11, 기권 17이었다. 결의안들은 총회 본회의 채택 절차를 남겨 두고 있다.",
+  "numbers": [
+   "찬성 143",
+   "반대 9",
+   "기권 20",
+   "찬성 155"
+  ],
+  "note": "표결 수치는 팔레스타인 통신 보도 한 곳에서만 확인해 유엔 원문과 대조하지 못한 미확인 수치다.",
+  "sources": [
+   {
+    "title": "팔레스타인 통신 (11.18)",
+    "url": "https://english.wafa.ps/Pages/Details/177111",
+    "date": "11.18"
+   },
+   {
+    "title": "유엔 보도국 (11.18)",
+    "url": "https://press.un.org/en/2026/gaspd858.doc.htm",
+    "date": "11.18"
+   }
+  ],
+  "countries": [
+   "팔레스타인",
+   "이스라엘",
+   "시리아"
+  ]
+ },
+ {
+  "id": "o-20261120-07",
+  "issue": 18,
+  "issue_date": "2026-11-20",
+  "date": "2026-11-18",
+  "org": "WHO",
+  "also": [
+   "EU"
+  ],
+  "type": "보고서",
+  "title": "세계보건기구와 유럽질병예방통제센터, 항생제 내성 악화 경고… 폐렴간균 내성 감염 2019~2025년 약 72% 증가",
+  "summary": "세계보건기구와 유럽질병예방통제센터가 18일 흔한 세균이 1차 및 최후 수단 항생제에 높은 내성을 보이며 2019년보다 상황이 나빠졌다고 발표했다. 폐렴간균 내성 감염은 5% 감축 목표와 달리 약 72% 늘었고, 세팔로스포린 내성 대장균 감염도 16% 이상 늘었다. 분석 대상 51개국 중 16개국은 표준화된 국가 감시 체계가 없다.",
+  "numbers": [
+   "72%",
+   "16%",
+   "51개국 중 16개국"
+  ],
+  "note": "유럽 지역 분석으로, 보고서 정식 명칭은 확인되지 않았다.",
+  "sources": [
+   {
+    "title": "UN News (11.18)",
+    "url": "https://news.un.org/en/story/2026/11/1168832",
+    "date": "11.18"
+   }
+  ],
+  "countries": []
  }
 ]
