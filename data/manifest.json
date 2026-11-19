@@ -1,8 +1,13 @@
 {
-  "updated": "2026-11-19",
-  "latest_issue": 0,
-  "latest_brief_url": "",
-  "site_url": "",
-  "months": [],
-  "counts": {"stories": 0, "org_events": 0}
+ "updated": "2026-11-19",
+ "latest_issue": 17,
+ "latest_brief_url": "https://claude.ai/artifact/AJ739nkEC36rNACfPXSwy5",
+ "site_url": "",
+ "months": [
+  "2026-11"
+ ],
+ "counts": {
+  "stories": 413,
+  "org_events": 62
+ }
 }

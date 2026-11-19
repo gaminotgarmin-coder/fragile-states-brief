@@ -1,45 +1,515 @@
 [
-  {"code": "UNSC", "name_ko": "유엔 안전보장이사회", "name_en": "UN Security Council", "group": "UN 사무국", "koica_partner": false, "aliases": ["안보리", "안전보장이사회", "Security Council"]},
-  {"code": "UNGA", "name_ko": "유엔 총회", "name_en": "UN General Assembly", "group": "UN 사무국", "koica_partner": false, "aliases": ["유엔 총회", "UN 총회", "General Assembly"]},
-  {"code": "UNSG", "name_ko": "유엔 사무총장", "name_en": "UN Secretary-General", "group": "UN 사무국", "koica_partner": false, "aliases": ["구테흐스", "유엔 사무총장", "UN 사무총장", "대변인실"]},
-  {"code": "OHCHR", "name_ko": "유엔 인권최고대표사무소", "name_en": "OHCHR", "group": "UN 사무국", "koica_partner": false, "aliases": ["인권최고대표", "인권이사회", "특별보고관", "UN 인권전문가", "OHCHR"]},
-  {"code": "OCHA", "name_ko": "유엔 인도지원조정실", "name_en": "OCHA", "group": "UN 기구", "koica_partner": true, "aliases": ["OCHA", "긴급구호조정관", "플레처", "CERF", "중앙긴급대응기금"]},
-  {"code": "UNHCR", "name_ko": "유엔난민기구", "name_en": "UNHCR", "group": "UN 기구", "koica_partner": true, "aliases": ["UNHCR", "유엔난민기구", "난민기구"]},
-  {"code": "WFP", "name_ko": "세계식량계획", "name_en": "WFP", "group": "UN 기구", "koica_partner": true, "aliases": ["WFP", "세계식량계획"]},
-  {"code": "UNICEF", "name_ko": "유엔아동기금", "name_en": "UNICEF", "group": "UN 기구", "koica_partner": true, "aliases": ["UNICEF", "유니세프", "아동기금"]},
-  {"code": "WHO", "name_ko": "세계보건기구", "name_en": "WHO", "group": "UN 기구", "koica_partner": true, "aliases": ["WHO", "세계보건기구", "테워드로스"]},
-  {"code": "IOM", "name_ko": "국제이주기구", "name_en": "IOM", "group": "UN 기구", "koica_partner": true, "aliases": ["IOM", "국제이주기구"]},
-  {"code": "UNDP", "name_ko": "유엔개발계획", "name_en": "UNDP", "group": "UN 기구", "koica_partner": true, "aliases": ["UNDP", "유엔개발계획"]},
-  {"code": "UNFPA", "name_ko": "유엔인구기금", "name_en": "UNFPA", "group": "UN 기구", "koica_partner": true, "aliases": ["UNFPA", "인구기금"]},
-  {"code": "UNWOMEN", "name_ko": "유엔여성기구", "name_en": "UN Women", "group": "UN 기구", "koica_partner": true, "aliases": ["UN Women", "유엔여성기구"]},
-  {"code": "UNESCO", "name_ko": "유네스코", "name_en": "UNESCO", "group": "UN 기구", "koica_partner": true, "aliases": ["UNESCO", "유네스코"]},
-  {"code": "FAO", "name_ko": "유엔식량농업기구", "name_en": "FAO", "group": "UN 기구", "koica_partner": true, "aliases": ["FAO", "식량농업기구"]},
-  {"code": "ILO", "name_ko": "국제노동기구", "name_en": "ILO", "group": "UN 기구", "koica_partner": true, "aliases": ["ILO", "국제노동기구"]},
-  {"code": "UNOPS", "name_ko": "유엔프로젝트조달기구", "name_en": "UNOPS", "group": "UN 기구", "koica_partner": true, "aliases": ["UNOPS"]},
-  {"code": "UNHABITAT", "name_ko": "유엔해비타트", "name_en": "UN-Habitat", "group": "UN 기구", "koica_partner": true, "aliases": ["UN-Habitat", "해비타트"]},
-  {"code": "UNIDO", "name_ko": "유엔산업개발기구", "name_en": "UNIDO", "group": "UN 기구", "koica_partner": true, "aliases": ["UNIDO"]},
-  {"code": "UNRWA", "name_ko": "유엔팔레스타인난민구호기구", "name_en": "UNRWA", "group": "UN 기구", "koica_partner": true, "aliases": ["UNRWA"]},
-  {"code": "UNDRR", "name_ko": "유엔재난위험경감사무국", "name_en": "UNDRR", "group": "UN 기구", "koica_partner": false, "aliases": ["UNDRR"]},
-  {"code": "ITU", "name_ko": "국제전기통신연합", "name_en": "ITU", "group": "UN 기구", "koica_partner": false, "aliases": ["ITU", "전권회의"]},
-  {"code": "PKO", "name_ko": "유엔 평화활동", "name_en": "UN Peace Operations", "group": "UN 사무국", "koica_partner": false, "aliases": ["UNMISS", "MINUSCA", "UNIFIL", "UNISFA", "MONUSCO", "UNTMIS", "평화유지군", "평화유지"]},
-  {"code": "WB", "name_ko": "세계은행", "name_en": "World Bank", "group": "국제금융기구", "koica_partner": true, "aliases": ["세계은행", "World Bank", "FCV"]},
-  {"code": "ADB", "name_ko": "아시아개발은행", "name_en": "ADB", "group": "국제금융기구", "koica_partner": true, "aliases": ["ADB", "아시아개발은행"]},
-  {"code": "AfDB", "name_ko": "아프리카개발은행", "name_en": "AfDB", "group": "국제금융기구", "koica_partner": true, "aliases": ["AfDB", "아프리카개발은행"]},
-  {"code": "IMF", "name_ko": "국제통화기금", "name_en": "IMF", "group": "국제금융기구", "koica_partner": false, "aliases": ["IMF"]},
-  {"code": "OECD", "name_ko": "경제협력개발기구", "name_en": "OECD", "group": "국제금융기구", "koica_partner": true, "aliases": ["OECD", "DAC"]},
-  {"code": "GCF", "name_ko": "녹색기후기금", "name_en": "Green Climate Fund", "group": "국제금융기구", "koica_partner": true, "aliases": ["GCF", "녹색기후기금"]},
-  {"code": "GAVI", "name_ko": "세계백신면역연합", "name_en": "Gavi", "group": "적십자와 기타", "koica_partner": true, "aliases": ["Gavi", "GAVI"]},
-  {"code": "GF", "name_ko": "글로벌펀드", "name_en": "Global Fund", "group": "적십자와 기타", "koica_partner": true, "aliases": ["글로벌펀드", "Global Fund"]},
-  {"code": "ICRC", "name_ko": "국제적십자위원회", "name_en": "ICRC", "group": "적십자와 기타", "koica_partner": true, "aliases": ["ICRC", "국제적십자위원회"]},
-  {"code": "IFRC", "name_ko": "국제적십자사연맹", "name_en": "IFRC", "group": "적십자와 기타", "koica_partner": true, "aliases": ["IFRC", "적십자사연맹"]},
-  {"code": "IPC", "name_ko": "통합식량안보단계분류", "name_en": "IPC", "group": "적십자와 기타", "koica_partner": false, "aliases": ["IPC"]},
-  {"code": "AU", "name_ko": "아프리카연합", "name_en": "African Union", "group": "지역기구", "koica_partner": false, "aliases": ["아프리카연합", "AU ", "AUSSOM"]},
-  {"code": "ASEAN", "name_ko": "아세안", "name_en": "ASEAN", "group": "지역기구", "koica_partner": false, "aliases": ["ASEAN", "아세안"]},
-  {"code": "EU", "name_ko": "유럽연합", "name_en": "European Union", "group": "지역기구", "koica_partner": false, "aliases": ["EU", "ECHO", "유럽연합", "유럽위원회"]},
-  {"code": "PIF", "name_ko": "태평양도서국포럼", "name_en": "Pacific Islands Forum", "group": "지역기구", "koica_partner": false, "aliases": ["태평양도서국포럼"]},
-  {"code": "COP", "name_ko": "기후변화협약 당사국총회", "name_en": "UNFCCC COP", "group": "다자 회의", "koica_partner": false, "aliases": ["COP31", "COP30", "당사국총회", "COP"]},
-  {"code": "HLPF", "name_ko": "고위급정치포럼", "name_en": "HLPF", "group": "다자 회의", "koica_partner": false, "aliases": ["HLPF", "고위급정치포럼"]},
-  {"code": "G7", "name_ko": "G7", "name_en": "G7", "group": "다자 회의", "koica_partner": false, "aliases": ["G7"]},
-  {"code": "G20", "name_ko": "G20", "name_en": "G20", "group": "다자 회의", "koica_partner": false, "aliases": ["G20"]},
-  {"code": "KOR", "name_ko": "한국 정부", "name_en": "Government of Korea", "group": "공여국", "koica_partner": false, "aliases": ["외교부", "KOICA", "코이카", "한국 정부"]}
+ {
+  "code": "UNSC",
+  "name_ko": "유엔 안전보장이사회",
+  "name_en": "UN Security Council",
+  "group": "UN 사무국",
+  "koica_partner": false,
+  "aliases": [
+   "안보리",
+   "안전보장이사회",
+   "Security Council"
+  ]
+ },
+ {
+  "code": "UNGA",
+  "name_ko": "유엔 총회",
+  "name_en": "UN General Assembly",
+  "group": "UN 사무국",
+  "koica_partner": false,
+  "aliases": [
+   "유엔 총회",
+   "UN 총회",
+   "General Assembly"
+  ]
+ },
+ {
+  "code": "UNSG",
+  "name_ko": "유엔 사무총장",
+  "name_en": "UN Secretary-General",
+  "group": "UN 사무국",
+  "koica_partner": false,
+  "aliases": [
+   "구테흐스",
+   "유엔 사무총장",
+   "UN 사무총장",
+   "대변인실"
+  ]
+ },
+ {
+  "code": "OHCHR",
+  "name_ko": "유엔 인권최고대표사무소",
+  "name_en": "OHCHR",
+  "group": "UN 사무국",
+  "koica_partner": false,
+  "aliases": [
+   "인권최고대표",
+   "인권이사회",
+   "특별보고관",
+   "UN 인권전문가",
+   "OHCHR"
+  ]
+ },
+ {
+  "code": "OCHA",
+  "name_ko": "유엔 인도지원조정실",
+  "name_en": "OCHA",
+  "group": "UN 기구",
+  "koica_partner": true,
+  "aliases": [
+   "OCHA",
+   "긴급구호조정관",
+   "플레처",
+   "CERF",
+   "중앙긴급대응기금"
+  ]
+ },
+ {
+  "code": "UNHCR",
+  "name_ko": "유엔난민기구",
+  "name_en": "UNHCR",
+  "group": "UN 기구",
+  "koica_partner": true,
+  "aliases": [
+   "UNHCR",
+   "유엔난민기구",
+   "난민기구"
+  ]
+ },
+ {
+  "code": "WFP",
+  "name_ko": "세계식량계획",
+  "name_en": "WFP",
+  "group": "UN 기구",
+  "koica_partner": true,
+  "aliases": [
+   "WFP",
+   "세계식량계획"
+  ]
+ },
+ {
+  "code": "UNICEF",
+  "name_ko": "유엔아동기금",
+  "name_en": "UNICEF",
+  "group": "UN 기구",
+  "koica_partner": true,
+  "aliases": [
+   "UNICEF",
+   "유니세프",
+   "아동기금"
+  ]
+ },
+ {
+  "code": "WHO",
+  "name_ko": "세계보건기구",
+  "name_en": "WHO",
+  "group": "UN 기구",
+  "koica_partner": true,
+  "aliases": [
+   "WHO",
+   "세계보건기구",
+   "테워드로스"
+  ]
+ },
+ {
+  "code": "IOM",
+  "name_ko": "국제이주기구",
+  "name_en": "IOM",
+  "group": "UN 기구",
+  "koica_partner": true,
+  "aliases": [
+   "IOM",
+   "국제이주기구"
+  ]
+ },
+ {
+  "code": "UNDP",
+  "name_ko": "유엔개발계획",
+  "name_en": "UNDP",
+  "group": "UN 기구",
+  "koica_partner": true,
+  "aliases": [
+   "UNDP",
+   "유엔개발계획"
+  ]
+ },
+ {
+  "code": "UNFPA",
+  "name_ko": "유엔인구기금",
+  "name_en": "UNFPA",
+  "group": "UN 기구",
+  "koica_partner": true,
+  "aliases": [
+   "UNFPA",
+   "인구기금"
+  ]
+ },
+ {
+  "code": "UNWOMEN",
+  "name_ko": "유엔여성기구",
+  "name_en": "UN Women",
+  "group": "UN 기구",
+  "koica_partner": true,
+  "aliases": [
+   "UN Women",
+   "유엔여성기구"
+  ]
+ },
+ {
+  "code": "UNESCO",
+  "name_ko": "유네스코",
+  "name_en": "UNESCO",
+  "group": "UN 기구",
+  "koica_partner": true,
+  "aliases": [
+   "UNESCO",
+   "유네스코"
+  ]
+ },
+ {
+  "code": "FAO",
+  "name_ko": "유엔식량농업기구",
+  "name_en": "FAO",
+  "group": "UN 기구",
+  "koica_partner": true,
+  "aliases": [
+   "FAO",
+   "식량농업기구"
+  ]
+ },
+ {
+  "code": "ILO",
+  "name_ko": "국제노동기구",
+  "name_en": "ILO",
+  "group": "UN 기구",
+  "koica_partner": true,
+  "aliases": [
+   "ILO",
+   "국제노동기구"
+  ]
+ },
+ {
+  "code": "UNOPS",
+  "name_ko": "유엔프로젝트조달기구",
+  "name_en": "UNOPS",
+  "group": "UN 기구",
+  "koica_partner": true,
+  "aliases": [
+   "UNOPS"
+  ]
+ },
+ {
+  "code": "UNHABITAT",
+  "name_ko": "유엔해비타트",
+  "name_en": "UN-Habitat",
+  "group": "UN 기구",
+  "koica_partner": true,
+  "aliases": [
+   "UN-Habitat",
+   "해비타트"
+  ]
+ },
+ {
+  "code": "UNIDO",
+  "name_ko": "유엔산업개발기구",
+  "name_en": "UNIDO",
+  "group": "UN 기구",
+  "koica_partner": true,
+  "aliases": [
+   "UNIDO"
+  ]
+ },
+ {
+  "code": "UNRWA",
+  "name_ko": "유엔팔레스타인난민구호기구",
+  "name_en": "UNRWA",
+  "group": "UN 기구",
+  "koica_partner": true,
+  "aliases": [
+   "UNRWA"
+  ]
+ },
+ {
+  "code": "UNEP",
+  "name_ko": "유엔환경계획",
+  "name_en": "UNEP",
+  "group": "UN 기구",
+  "koica_partner": false,
+  "aliases": [
+   "UNEP",
+   "유엔환경계획"
+  ]
+ },
+ {
+  "code": "UNDRR",
+  "name_ko": "유엔재난위험경감사무국",
+  "name_en": "UNDRR",
+  "group": "UN 기구",
+  "koica_partner": false,
+  "aliases": [
+   "UNDRR"
+  ]
+ },
+ {
+  "code": "WMO",
+  "name_ko": "세계기상기구",
+  "name_en": "WMO",
+  "group": "UN 기구",
+  "koica_partner": false,
+  "aliases": [
+   "WMO",
+   "세계기상기구"
+  ]
+ },
+ {
+  "code": "ITU",
+  "name_ko": "국제전기통신연합",
+  "name_en": "ITU",
+  "group": "UN 기구",
+  "koica_partner": false,
+  "aliases": [
+   "ITU",
+   "전권회의"
+  ]
+ },
+ {
+  "code": "PKO",
+  "name_ko": "유엔 평화활동",
+  "name_en": "UN Peace Operations",
+  "group": "UN 사무국",
+  "koica_partner": false,
+  "aliases": [
+   "UNMISS",
+   "MINUSCA",
+   "UNIFIL",
+   "UNISFA",
+   "MONUSCO",
+   "UNTMIS",
+   "평화유지군",
+   "평화유지"
+  ]
+ },
+ {
+  "code": "WB",
+  "name_ko": "세계은행",
+  "name_en": "World Bank",
+  "group": "국제금융기구",
+  "koica_partner": true,
+  "aliases": [
+   "세계은행",
+   "World Bank",
+   "FCV"
+  ]
+ },
+ {
+  "code": "ADB",
+  "name_ko": "아시아개발은행",
+  "name_en": "ADB",
+  "group": "국제금융기구",
+  "koica_partner": true,
+  "aliases": [
+   "ADB",
+   "아시아개발은행"
+  ]
+ },
+ {
+  "code": "AfDB",
+  "name_ko": "아프리카개발은행",
+  "name_en": "AfDB",
+  "group": "국제금융기구",
+  "koica_partner": true,
+  "aliases": [
+   "AfDB",
+   "아프리카개발은행"
+  ]
+ },
+ {
+  "code": "IMF",
+  "name_ko": "국제통화기금",
+  "name_en": "IMF",
+  "group": "국제금융기구",
+  "koica_partner": false,
+  "aliases": [
+   "IMF"
+  ]
+ },
+ {
+  "code": "OECD",
+  "name_ko": "경제협력개발기구",
+  "name_en": "OECD",
+  "group": "국제금융기구",
+  "koica_partner": true,
+  "aliases": [
+   "OECD",
+   "DAC"
+  ]
+ },
+ {
+  "code": "GCF",
+  "name_ko": "녹색기후기금",
+  "name_en": "Green Climate Fund",
+  "group": "국제금융기구",
+  "koica_partner": true,
+  "aliases": [
+   "GCF",
+   "녹색기후기금"
+  ]
+ },
+ {
+  "code": "GAVI",
+  "name_ko": "세계백신면역연합",
+  "name_en": "Gavi",
+  "group": "적십자와 기타",
+  "koica_partner": true,
+  "aliases": [
+   "Gavi",
+   "GAVI"
+  ]
+ },
+ {
+  "code": "GF",
+  "name_ko": "글로벌펀드",
+  "name_en": "Global Fund",
+  "group": "적십자와 기타",
+  "koica_partner": true,
+  "aliases": [
+   "글로벌펀드",
+   "Global Fund"
+  ]
+ },
+ {
+  "code": "ICRC",
+  "name_ko": "국제적십자위원회",
+  "name_en": "ICRC",
+  "group": "적십자와 기타",
+  "koica_partner": true,
+  "aliases": [
+   "ICRC",
+   "국제적십자위원회"
+  ]
+ },
+ {
+  "code": "IFRC",
+  "name_ko": "국제적십자사연맹",
+  "name_en": "IFRC",
+  "group": "적십자와 기타",
+  "koica_partner": true,
+  "aliases": [
+   "IFRC",
+   "적십자사연맹"
+  ]
+ },
+ {
+  "code": "IPC",
+  "name_ko": "통합식량안보단계분류",
+  "name_en": "IPC",
+  "group": "적십자와 기타",
+  "koica_partner": false,
+  "aliases": [
+   "IPC"
+  ]
+ },
+ {
+  "code": "AU",
+  "name_ko": "아프리카연합",
+  "name_en": "African Union",
+  "group": "지역기구",
+  "koica_partner": false,
+  "aliases": [
+   "아프리카연합",
+   "AUSSOM"
+  ]
+ },
+ {
+  "code": "ASEAN",
+  "name_ko": "아세안",
+  "name_en": "ASEAN",
+  "group": "지역기구",
+  "koica_partner": false,
+  "aliases": [
+   "ASEAN",
+   "아세안"
+  ]
+ },
+ {
+  "code": "EU",
+  "name_ko": "유럽연합",
+  "name_en": "European Union",
+  "group": "지역기구",
+  "koica_partner": false,
+  "aliases": [
+   "EU",
+   "ECHO",
+   "유럽연합",
+   "유럽위원회"
+  ]
+ },
+ {
+  "code": "PIF",
+  "name_ko": "태평양도서국포럼",
+  "name_en": "Pacific Islands Forum",
+  "group": "지역기구",
+  "koica_partner": false,
+  "aliases": [
+   "태평양도서국포럼"
+  ]
+ },
+ {
+  "code": "COP",
+  "name_ko": "기후변화협약 당사국총회",
+  "name_en": "UNFCCC COP",
+  "group": "다자 회의",
+  "koica_partner": false,
+  "aliases": [
+   "COP31",
+   "COP30",
+   "당사국총회",
+   "COP"
+  ]
+ },
+ {
+  "code": "HLPF",
+  "name_ko": "고위급정치포럼",
+  "name_en": "HLPF",
+  "group": "다자 회의",
+  "koica_partner": false,
+  "aliases": [
+   "HLPF",
+   "고위급정치포럼"
+  ]
+ },
+ {
+  "code": "G7",
+  "name_ko": "G7",
+  "name_en": "G7",
+  "group": "다자 회의",
+  "koica_partner": false,
+  "aliases": [
+   "G7"
+  ]
+ },
+ {
+  "code": "G20",
+  "name_ko": "G20",
+  "name_en": "G20",
+  "group": "다자 회의",
+  "koica_partner": false,
+  "aliases": [
+   "G20"
+  ]
+ },
+ {
+  "code": "KOR",
+  "name_ko": "한국 정부",
+  "name_en": "Government of Korea",
+  "group": "공여국",
+  "koica_partner": false,
+  "aliases": [
+   "KOICA",
+   "코이카",
+   "한국 정부",
+   "한국 외교부",
+   "한국"
+  ]
+ }
 ]
