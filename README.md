@@ -28,7 +28,7 @@ tests/                     pytest, Playwright e2e
 5. `python scripts/validate.py data/` 통과 확인.
 6. 커밋, push. Vercel이 자동 배포.
 
-`briefs/`에는 2026-11-03~11-19에 발행한 클리핑 보관본이 남아 있다.
+`briefs/`에는 2026-11-03~11-19에 발행한 클리핑 보관본이 남아 있다. 기구 동향 중 `collected: "backfill"`인 레코드는 2026-10-19~11-19를 기구 원문(UN, 각 기구, ReliefWeb 등)으로 소급 수집한 것이며 `issue`가 0이다.
 
 ## 레코드 규칙
 

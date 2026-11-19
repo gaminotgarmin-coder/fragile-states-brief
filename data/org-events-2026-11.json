@@ -73,6 +73,66 @@
   "from_story": "s-20261103-21"
  },
  {
+  "id": "o-20261103-51",
+  "issue": 0,
+  "issue_date": "2026-11-03",
+  "date": "2026-11-03",
+  "org": "UNICEF",
+  "also": [],
+  "type": "성명",
+  "title": "UNICEF, 미얀마 카야주 실향민 학교 공습으로 아동 3명 사망 5명 부상 규탄",
+  "summary": "UNICEF는 10월 31일 카야주 로이코 지역의 실향민 아동 학교가 공습을 받아 아이 3명이 숨지고 5명이 다쳤다는 보고에 깊은 우려를 표했다. 주말 사이 라카인주에서도 임시 의료시설이 공습을 당해 신생아와 의료진이 숨진 것으로 전해졌다. UNICEF는 모든 분쟁 당사자에게 국제인도법 준수와 학교, 보건시설 보호를 촉구했다.",
+  "numbers": [
+   "3명",
+   "5명"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "UNICEF 성명 (11.03)",
+    "url": "https://www.unicef.org/press-releases/unicef-statement-reports-children-killed-and-injured-airstrikes-myanmar-0",
+    "date": "11.03"
+   }
+  ],
+  "countries": [
+   "미얀마"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261103-52",
+  "issue": 0,
+  "issue_date": "2026-11-03",
+  "date": "2026-11-03",
+  "org": "WFP",
+  "also": [
+   "UNHCR"
+  ],
+  "type": "호소",
+  "title": "WFP \"부룬디 난민 12만 5천 명, 내년 1월부터 식량지원 중단 위기\"… 4,000만 달러 긴급 필요",
+  "summary": "WFP는 부룬디에 머무는 난민 약 12만 5천 명이 추가 재원이 없으면 2027년 1월부터 식량지원을 잃게 된다고 경고했다. 대부분 DR콩고 분쟁을 피해 온 이들로, 미국과 벨기에 기여 덕분에 10월 예정이던 중단은 피해 연말까지 지원이 이어진다. 2027년 9월까지 중단을 막고 배급을 최소 필요량의 45%에서 100%로 늘리려면 4,000만 달러가, 학교급식에는 100만 달러가 더 필요하다.",
+  "numbers": [
+   "12만 5천 명",
+   "4,000만 달러",
+   "45%",
+   "100%",
+   "100만 달러"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "WFP 보도자료 (11.03)",
+    "url": "https://www.wfp.org/news/125000-refugees-burundi-risk-losing-food-assistance-without-urgent-funding",
+    "date": "11.03"
+   }
+  ],
+  "countries": [
+   "부룬디",
+   "DR콩고"
+  ],
+  "collected": "backfill"
+ },
+ {
   "id": "o-20261104-01",
   "issue": 2,
   "issue_date": "2026-11-04",
@@ -201,6 +261,37 @@
   ],
   "countries": [],
   "from_story": "s-20261104-27"
+ },
+ {
+  "id": "o-20261104-51",
+  "issue": 0,
+  "issue_date": "2026-11-04",
+  "date": "2026-11-04",
+  "org": "PKO",
+  "also": [
+   "UNSC"
+  ],
+  "type": "성명",
+  "title": "라크루아 평화활동 사무차장 \"UNIFIL 철수 뒤 안보 공백\" 경고… 약 7,500명 주둔, 청색선 일대 주민 1만 명 지원 의존",
+  "summary": "라크루아 사무차장은 연말 활동을 마치는 UNIFIL에 약 7,500명이 남아 있으며, 철수 이후 레바논군과 이스라엘군 사이 제3자가 사라지는 공백을 우려했다. 청색선과 이스라엘의 전방 방어선 사이에 약 1만 명이 살며 UNIFIL에 구호 접근을 기대고 있다고 추산했다. 안보리는 6월 사무총장이 제시한 후속 방안에 아직 합의하지 못했고, 서사하라 MINURSO는 10월 31일 문을 닫고 청산 단계에 들어갔다.",
+  "numbers": [
+   "7,500명",
+   "1만 명",
+   "10월 31일"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "UN News (11.04)",
+    "url": "https://news.un.org/en/story/2026/11/1168741",
+    "date": "11.04"
+   }
+  ],
+  "countries": [
+   "레바논",
+   "이스라엘"
+  ],
+  "collected": "backfill"
  },
  {
   "id": "o-20261105-01",
@@ -338,6 +429,169 @@
   "from_story": "s-20261105-26"
  },
  {
+  "id": "o-20261105-51",
+  "issue": 0,
+  "issue_date": "2026-11-05",
+  "date": "2026-11-05",
+  "org": "IPC",
+  "also": [
+   "WFP",
+   "FAO"
+  ],
+  "type": "보고서",
+  "title": "IPC, 레바논 105만 명 급성 식량불안, 2027년 중반 115만 명으로 늘고 긴급 단계 9만 7천 명 전망",
+  "summary": "2026년 9월~2027년 2월 레바논 분석 인구의 21%인 105만 명이 3단계 이상이며, 이 중 5만 2천 명이 4단계(긴급)에 있다. 3월 시작된 두 번째 분쟁 격화와 남부의 계속되는 적대행위, 높은 생활비가 회복을 가로막고 있으며, 직전 분석보다 다소 나아진 데에는 시리아 난민 수 감소도 반영됐다. WFP와 FAO는 2027년 중반 3단계 이상이 115만 명(24%)으로 늘고 긴급 단계는 9만 7천 명으로 거의 두 배가 될 것이라고 밝혔다.",
+  "numbers": [
+   "21%",
+   "105만 명",
+   "5만 2천 명",
+   "115만 명",
+   "24%",
+   "9만 7천 명"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "IPC 급성 식량불안 분석 (11.5, ReliefWeb)",
+    "url": "https://reliefweb.int/report/lebanon/lebanon-around-105-million-people-face-high-levels-acute-food-insecurity-following-two-successive-conflicts-and-fragile-recovery-ipc-acute-food-insecurity-analysis-september-2026-july-2027-published-5-november-2026",
+    "date": "11.5"
+   },
+   {
+    "title": "WFP, FAO 보도자료 (11.11, ReliefWeb)",
+    "url": "https://reliefweb.int/report/lebanon/food-insecurity-persists-lebanon-fragile-conditions-stall-recovery-efforts-new-analysis-shows-world-food-programme-0",
+    "date": "11.11"
+   }
+  ],
+  "countries": [
+   "레바논"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261105-52",
+  "issue": 0,
+  "issue_date": "2026-11-05",
+  "date": "2026-11-05",
+  "org": "UNFPA",
+  "also": [],
+  "type": "보고서",
+  "title": "UNFPA 예멘 10월 상황보고서, 8월 이후 30만 명 넘게 실향… 실향 임신부 6,400명, 10월에만 8만 2,000명 피란",
+  "summary": "UNFPA는 11월 5일 예멘 10월 상황보고서에서 서부 해안과 타이즈 남부 전선의 교전이 2020년 이후 볼 수 없던 수준으로 격화해 8월 이후 30만 명 이상이 실향했고 10월에만 약 8만 2,000명이 집을 떠났다고 밝혔다. 최근 실향민 가운데 임신부는 6,400명으로 추산되며 2주 안에 약 600명이 출산할 것으로 예상된다. 11월 17일 후속 기사에서 UNFPA는 영양실조 상태의 임신부와 수유부가 130만 명에 이르고 완전히 가동되는 보건시설은 3분의 2에 못 미친다고 전했다.",
+  "numbers": [
+   "30만 명",
+   "8만 2,000명",
+   "6,400명",
+   "600명",
+   "130만 명"
+  ],
+  "note": "10.16 타이즈 14만 7,000명 경고와는 별개 발표",
+  "sources": [
+   {
+    "title": "UNFPA 예멘 상황보고서 10월 (ReliefWeb, 11.5)",
+    "url": "https://reliefweb.int/report/yemen/situation-report-yemen-crisis-october-2026",
+    "date": "11.5"
+   },
+   {
+    "title": "UNFPA 기사 (11.17)",
+    "url": "https://www.unfpa.org/news/%E2%80%9Ceverything-was-looted%E2%80%9D-displaced-midwife-saves-mothers-amid-yemen%E2%80%99s-conflict",
+    "date": "11.17"
+   }
+  ],
+  "countries": [
+   "예멘"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261105-53",
+  "issue": 0,
+  "issue_date": "2026-11-05",
+  "date": "2026-11-05",
+  "org": "UNFPA",
+  "also": [
+   "AU",
+   "AfDB"
+  ],
+  "type": "회의",
+  "title": "UNFPA와 AU, 아프리카개발은행, 아비장서 「아프리카 인구협약」 7대 행동과제 발표… 15~35세 청년 5억 3,200만 명",
+  "summary": "UNFPA는 11월 5일 코트디부아르 아비장에서 열린 인구미래대화 폐막에 맞춰 아프리카 각국 정부, 아프리카연합, 아프리카개발은행과 함께 「아프리카 인구협약」을 공개했다. 협약은 보건, 교육, 일자리 투자와 인구조사 및 민사등록 등 인구 데이터 강화, 재원 동원, 국가 주도 이행 점검 등 7가지 행동 요청을 담았다. 아프리카 인구는 약 16억 명이며 이 가운데 15~35세 청년이 5억 3,200만 명에 이른다.",
+  "numbers": [
+   "16억 명",
+   "5억 3,200만 명"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "UNFPA 보도자료 (11.5)",
+    "url": "https://www.unfpa.org/press/african-leaders-launch-seven-point-agenda-turn-continent%E2%80%99s-demographic-transformation-shared",
+    "date": "11.5"
+   }
+  ],
+  "countries": [
+   "코트디부아르"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261105-54",
+  "issue": 0,
+  "issue_date": "2026-11-05",
+  "date": "2026-11-05",
+  "org": "UNRWA",
+  "also": [],
+  "type": "성명",
+  "title": "UNRWA \"현금흐름 적자 8,000만 달러, 현상 유지 불가\"… 운영 재검토 착수, 인력 감축 가능성도 언급",
+  "summary": "UNRWA는 재정 압박과 예측하기 어려운 공여, 가자 등의 운영 제약 때문에 지금 체제를 더는 유지할 수 없다며 사업 방식 재검토에 들어갔다고 밝혔다. 현재 현금흐름 적자는 8,000만 달러이며, 올해 1월부터 서비스 제공 주간을 20% 줄여 왔다. 기구 해체는 아니고 인력이나 운영 규모 변경은 아직 결정되지 않았으나, 다른 대안이 없을 때만 감축하겠다며 공여국에 안정적 재원을 요청했다.",
+  "numbers": [
+   "8,000만 달러",
+   "20%"
+  ],
+  "note": "직원 약 2만 8,000명, 대부분 팔레스타인인",
+  "sources": [
+   {
+    "title": "UNRWA 보도자료 (11.05)",
+    "url": "https://www.unrwa.org/news-reports/news-releases/unrwa-reaffirms-commitment-its-mandate-and-operations-amid-major",
+    "date": "11.05"
+   }
+  ],
+  "countries": [
+   "팔레스타인",
+   "요르단",
+   "레바논",
+   "시리아"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261105-55",
+  "issue": 0,
+  "issue_date": "2026-11-05",
+  "date": "2026-11-05",
+  "org": "WB",
+  "also": [],
+  "type": "보고서",
+  "title": "세계은행 「국제부채보고서 2026」, 개도국 대외부채 9조 4천억 달러로 사상 최대, IDA 대상국 민간차입 금리 8.2%로 1989년 이후 최고",
+  "summary": "2025년 개발도상국 대외부채는 5.5% 늘어 9조 4천억 달러를 기록했고, IDA 지원 대상국 부채는 8.1% 증가한 1조 3천억 달러로 가장 빠르게 불었다. IDA 대상국이 민간 채권자에게서 새로 빌린 자금의 평균 금리는 8.2%로 1989년 이후 가장 높았다. 저소득국과 중소득국이 2025년 낸 원리금은 1조 4천억 달러로 5년 연속 늘어 보건과 교육 투자를 밀어낼 우려가 제기됐다.",
+  "numbers": [
+   "5.5%",
+   "9조 4천억 달러",
+   "8.1%",
+   "1조 3천억 달러",
+   "8.2%",
+   "1조 4천억 달러"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "세계은행 보도자료 (11.5)",
+    "url": "https://www.worldbank.org/en/news/press-release/2026/11/05/developing-countries-external-debt-surges-to-record-9-4-trillion",
+    "date": "11.5"
+   }
+  ],
+  "countries": [],
+  "collected": "backfill"
+ },
+ {
   "id": "o-20261106-01",
   "issue": 4,
   "issue_date": "2026-11-06",
@@ -470,6 +724,73 @@
   ],
   "countries": [],
   "from_story": "s-20261106-26"
+ },
+ {
+  "id": "o-20261106-51",
+  "issue": 0,
+  "issue_date": "2026-11-06",
+  "date": "2026-11-06",
+  "org": "IFRC",
+  "also": [],
+  "type": "자금",
+  "title": "IFRC 재난구호긴급기금(DREF) 공약회의, 2026~2027년 약 1억 2천만 스위스프랑 확보",
+  "summary": "제네바 공약회의에 50개 파트너가 모였고, 2026~2027년분 공약과 확정 지원액은 1억 2천만 스위스프랑에 가까웠다. 여기에는 DREF 보험을 통한 연 최대 1,500만 스위스프랑의 조건부 재원이 포함되며, IFRC는 2030년까지 기금 규모를 2억 스위스프랑으로 키우는 것이 목표다. 2025년에는 이 기금으로 170개 작전에 7,740만 스위스프랑을 배정했고, 엘니뇨로 수요가 늘어 올해 보험이 다시 발동될 수 있다고 밝혔다.",
+  "numbers": [
+   "50개",
+   "1억 2천만 스위스프랑",
+   "1,500만 스위스프랑",
+   "2억 스위스프랑",
+   "170개",
+   "7,740만 스위스프랑"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "IFRC 보도자료 (11.6, ReliefWeb)",
+    "url": "https://reliefweb.int/report/world/ifrc-dref-donors-pledge-support-scale-locally-led-disaster-response-and-early-action",
+    "date": "11.6"
+   }
+  ],
+  "countries": [],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261106-52",
+  "issue": 0,
+  "issue_date": "2026-11-06",
+  "date": "2026-11-06",
+  "org": "UNHCR",
+  "also": [
+   "IOM"
+  ],
+  "type": "호소",
+  "title": "UNHCR와 IOM \"수단 1,540만 명 긴급 거처 필요, 지원 가능한 건 10%뿐\"… 비상 재고 바닥",
+  "summary": "UNHCR와 IOM은 공동성명에서 수단의 긴급 거처와 생활필수품 수요가 1,540만 명에 이르지만 재원 부족으로 약 10%만 우선 지원할 수 있다고 밝혔다. 지금까지 지원받은 사람은 93만 6천 명이며, IOM 수단 대표는 다르푸르에 보낸 트럭 16대가 마지막 재고였다고 전했다. 2026년 수단 인도적 대응계획 29억 달러 가운데 약 47%만 들어왔다.",
+  "numbers": [
+   "1,540만 명",
+   "10%",
+   "93만 6천 명",
+   "16대",
+   "29억 달러",
+   "47%"
+  ],
+  "note": "UN News는 공동성명을 11.06 발표로 보도, ReliefWeb 게재 불어본은 11.17자",
+  "sources": [
+   {
+    "title": "UN News (11.06)",
+    "url": "https://news.un.org/en/story/2026/11/1168753",
+    "date": "11.06"
+   },
+   {
+    "title": "UNHCR와 IOM 공동 보도자료(불어), ReliefWeb (11.17)",
+    "url": "https://reliefweb.int/report/sudan/au-soudan-des-millions-de-personnes-risquent-de-perdre-leur-abri-durgence-faute-de-financements-alertent-le-hcr-et-loim-0",
+    "date": "11.17"
+   }
+  ],
+  "countries": [
+   "수단"
+  ],
+  "collected": "backfill"
  },
  {
   "id": "o-20261107-01",
@@ -823,6 +1144,103 @@
   "from_story": "s-20261109-23"
  },
  {
+  "id": "o-20261109-51",
+  "issue": 0,
+  "issue_date": "2026-11-09",
+  "date": "2026-11-09",
+  "org": "IOM",
+  "also": [],
+  "type": "호소",
+  "title": "IOM \"에티오피아 충돌 피해 케냐 모얄레로 약 5만 명 유입\", 71%가 식량 부족… 긴급 재원 호소",
+  "summary": "IOM은 10월 말 이후 에티오피아 오로미아와 소말리 지역 충돌을 피해 약 5만 명이 케냐 북부 모얄레로 넘어왔다며 긴급 재원을 요청했다. 758가구 신속평가 결과 71%가 먹을 것이 부족하고 44%는 식수 접근이 불충분했다. 유입민 절반 이상이 아동이며, 상당수가 친척이나 주민 집, 학교에 머물거나 노숙하고 있다.",
+  "numbers": [
+   "약 5만 명",
+   "758가구",
+   "71%",
+   "44%"
+  ],
+  "note": "11.17 WFP도 모얄레 유입 가족 식량지원 착수(UN News)",
+  "sources": [
+   {
+    "title": "UN News (11.09)",
+    "url": "https://news.un.org/en/story/2026/11/1168762",
+    "date": "11.09"
+   }
+  ],
+  "countries": [
+   "케냐",
+   "에티오피아"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261109-52",
+  "issue": 0,
+  "issue_date": "2026-11-09",
+  "date": "2026-11-09",
+  "org": "UNFPA",
+  "also": [],
+  "type": "보고서",
+  "title": "UNFPA 수단 9월 상황보고서, 2026년 호소액 1억 2,920만 달러 중 약 40%만 확보… 청나일주 5만 2,629명 실향",
+  "summary": "UNFPA가 11월 9일 공개한 수단 9월 상황보고서에 따르면 청나일주 교전이 주 남부로 번지면서 5만 2,629명이 실향했고, 이 중 1만 2,000명 가까이가 과밀한 학교 건물에 머물고 있다. UNFPA의 2026년 호소액 1억 2,920만 달러는 약 40%만 채워져 7,800만 달러가 부족한 상태다. 9월 한 달 UNFPA와 파트너는 17개 주에서 성생식보건 서비스 14만 5,000건 이상을 제공했고 약 9만 3,000명에게 젠더기반폭력 예방과 대응 서비스를 지원했다.",
+  "numbers": [
+   "5만 2,629명",
+   "1만 2,000명",
+   "1억 2,920만 달러",
+   "40%",
+   "7,800만 달러",
+   "14만 5,000건",
+   "9만 3,000명"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "UNFPA 수단 상황보고서 9월 (ReliefWeb, 11.9)",
+    "url": "https://reliefweb.int/report/sudan/unfpa-sudan-situation-report-september-2026",
+    "date": "11.9"
+   }
+  ],
+  "countries": [
+   "수단"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261109-53",
+  "issue": 0,
+  "issue_date": "2026-11-09",
+  "date": "2026-11-09",
+  "org": "WB",
+  "also": [
+   "FAO"
+  ],
+  "type": "보고서",
+  "title": "수단 식량영양 공동모니터링보고서 1호, 2,160만 명(인구 40.5%)이 위기 악화 위험 지역 거주, 1,010만 명은 긴급 이상 위험",
+  "summary": "세계은행이 지원한 통계모델 기반 보고서에 따르면 2026년 9월 기준 수단 인구의 40.5%인 2,160만 명이 위기 수준 이상으로 악화될 위험이 있는 지역에 살고, 약 1,010만 명은 긴급 이상으로 나빠질 위험이 높은 지역에 있다. 180개 지역에서 심각 위험 경보 450건이 나왔고 식량가격 변동성과 분쟁이 주된 원인이었다. 국내실향민은 약 860만 명으로 2025년 1월 정점보다 26% 줄었고 귀환민은 520만 명을 넘었다.",
+  "numbers": [
+   "40.5%",
+   "2,160만 명",
+   "약 1,010만 명",
+   "180개",
+   "450건",
+   "약 860만 명",
+   "26%",
+   "520만 명"
+  ],
+  "note": "IPC 공식 분류가 아닌 모델 추정치(보고서 명시)",
+  "sources": [
+   {
+    "title": "수단 공동모니터링보고서 1호 (11.9, ReliefWeb)",
+    "url": "https://reliefweb.int/report/sudan/sudan-joint-monitoring-report-food-and-nutrition-security-crisis-risks-september-2026-report-1",
+    "date": "11.9"
+   }
+  ],
+  "countries": [
+   "수단"
+  ],
+  "collected": "backfill"
+ },
+ {
   "id": "o-20261110-01",
   "issue": 8,
   "issue_date": "2026-11-10",
@@ -963,6 +1381,72 @@
   "from_story": "s-20261110-27"
  },
  {
+  "id": "o-20261110-51",
+  "issue": 0,
+  "issue_date": "2026-11-10",
+  "date": "2026-11-10",
+  "org": "UNICEF",
+  "also": [],
+  "type": "성명",
+  "title": "UNICEF \"수단 아동, 드론과 가뭄 협공\"… 10월 발전소 최대 15곳 피격, 중증 급성영양실조 82만 5천 명",
+  "summary": "UNICEF 대변인은 10월 마지막 주 매일 무장 드론이 수단 발전소를 타격했고 한 달 동안 최대 15곳이 피해를 입었다고 밝혔다. 전력이 끊기면 양수와 정수가 멈춰 콜레라가 다시 번지고, 엘니뇨로 2026~27년 곡물 파종 시기도 사실상 지났다. 올해 5세 미만 82만 5천 명이 중증 급성영양실조를 겪을 것으로 보이며, 아동 사상자 3명 중 2명이 드론 때문이지만 UNICEF 수단 대응은 3분의 1만 재원이 확보됐다.",
+  "numbers": [
+   "최대 15곳",
+   "82만 5천 명",
+   "3명 중 2명",
+   "3분의 1"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "UNICEF 브리핑 (11.10)",
+    "url": "https://www.unicef.org/press-releases/drones-and-drought-sudan-combined-assault-children-nothing-seen",
+    "date": "11.10"
+   }
+  ],
+  "countries": [
+   "수단"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261110-52",
+  "issue": 0,
+  "issue_date": "2026-11-10",
+  "date": "2026-11-10",
+  "org": "UNSC",
+  "also": [
+   "PKO"
+  ],
+  "type": "회의",
+  "title": "안보리 남수단 브리핑, 그베호 UNMISS 대표 \"첫 총선 42일 앞두고 전환 합의 흔들려\"… 룸벡과 톤즈 충돌로 140명 넘게 사망",
+  "summary": "그베호 대표는 42일 앞으로 다가온 12월 22일 독립 후 첫 총선을 두고 평화협정 기반 전환에 대한 합의가 약해지고 있다고 안보리에 보고했다. 주요 서명 세력 간 교전은 줄었지만 올해 사상자와 실향민은 늘었고, 지난달 룸벡과 톤즈 일대 폭력으로 140명 이상이 숨졌으며 공동체 간 폭력이 민간인 피해의 60% 이상을 차지했다. UNMISS는 인도적 활동 호위를 두 배로 늘려 지난 브리핑 이후 321,000여 명에게 구호가 닿도록 했다.",
+  "numbers": [
+   "42일",
+   "12월 22일",
+   "140명",
+   "60%",
+   "321,000여 명"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "ReliefWeb, UNMISS (11.11)",
+    "url": "https://reliefweb.int/report/south-sudan/remarks-anita-kiki-gbeho-special-representative-secretary-general-head-unmiss-un-security-council-10-november-2026",
+    "date": "11.11"
+   },
+   {
+    "title": "UN News (11.10)",
+    "url": "https://news.un.org/en/story/2026/11/1168774",
+    "date": "11.10"
+   }
+  ],
+  "countries": [
+   "남수단"
+  ],
+  "collected": "backfill"
+ },
+ {
   "id": "o-20261111-01",
   "issue": 9,
   "issue_date": "2026-11-11",
@@ -1089,6 +1573,65 @@
   "from_story": "s-20261111-27"
  },
  {
+  "id": "o-20261111-51",
+  "issue": 0,
+  "issue_date": "2026-11-11",
+  "date": "2026-11-11",
+  "org": "OCHA",
+  "also": [],
+  "type": "성명",
+  "title": "플레처 긴급구호조정관 \"가자 월동물자 더는 지체 말라\"… 이스라엘 정부 구성 대기는 변명 안 돼",
+  "summary": "톰 플레처 긴급구호조정관은 가자 월동물자 반입이 이스라엘 총선과 정부 구성을 이유로 미뤄지고 있다며 이는 국제인도법상 받아들일 수 없는 핑계라고 비판했다. 지연과 봉쇄, 재원 삭감으로 인명 피해가 이미 나고 있다며 모든 검문소 개방과 NGO 활동 허용, 상업 유통 재개, 계획 재원 지원을 요구했다. 13일에는 인도적 지원국가팀(HCT)도 15만 개 넘는 텐트가 가자 밖에서 반입을 기다리고 있다며 즉각 반입을 촉구했다.",
+  "numbers": [
+   "15만 개"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "OCHA 성명 (11.11)",
+    "url": "https://www.unocha.org/news/no-more-delay-un-relief-chief-urges-immediate-entry-winter-supplies-gaza",
+    "date": "11.11"
+   },
+   {
+    "title": "UN News (11.13)",
+    "url": "https://news.un.org/en/story/2026/11/1168799",
+    "date": "11.13"
+   }
+  ],
+  "countries": [
+   "팔레스타인"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261111-52",
+  "issue": 0,
+  "issue_date": "2026-11-11",
+  "date": "2026-11-11",
+  "org": "PKO",
+  "also": [],
+  "type": "성명",
+  "title": "UNIFIL \"남부 레바논 귀환민 100만 명 가까이, 여전히 304,500명 실향\"… 2027년 1월 철수 준비 착수",
+  "summary": "UNIFIL 대변인은 6월 미국, 레바논, 이스라엘 간 합의 이후 적대행위는 크게 줄었지만 이스라엘군의 위반 행위가 매일 관측된다고 밝혔다. 귀환한 국내실향민은 9월보다 13% 늘어 100만 명에 가깝지만 약 304,500명은 아직 돌아가지 못했고, 전력망과 상수도, 도로 등 기반시설 재건이 시급하다. 안보리가 2025년 8월 임무 종료를 결정함에 따라 철수 준비는 2027년 1월 시작될 예정이며 후속 체제는 정해지지 않았다.",
+  "numbers": [
+   "13%",
+   "100만 명",
+   "304,500명"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "UN News (11.11)",
+    "url": "https://news.un.org/en/story/2026/11/1168784",
+    "date": "11.11"
+   }
+  ],
+  "countries": [
+   "레바논"
+  ],
+  "collected": "backfill"
+ },
+ {
   "id": "o-20261112-01",
   "issue": 10,
   "issue_date": "2026-11-12",
@@ -1176,6 +1719,69 @@
   ],
   "countries": [],
   "from_story": "s-20261112-22"
+ },
+ {
+  "id": "o-20261112-51",
+  "issue": 0,
+  "issue_date": "2026-11-12",
+  "date": "2026-11-12",
+  "org": "UNICEF",
+  "also": [
+   "KOR"
+  ],
+  "type": "성명",
+  "title": "UNICEF, 파푸아뉴기니 엘니뇨 피해 속 아동 투자 지속 촉구… 코이카 지원 기후 물 사업 현장 방문",
+  "summary": "UNICEF 글로벌 프로그램 국장이 파푸아뉴기니를 사흘간 방문한 뒤 엘니뇨로 식량과 식수, 서비스가 위협받고 있다며 정부와 파트너에 아동 서비스 투자를 계속해 달라고 요청했다. 5세 미만 아동의 절반 가까이가 발육부진이고 기본 식수 접근률은 53%에 그친다. 리고 지역 보레가이나에서는 코이카 재원의 '최종 수혜지 기후행동' 사업으로 물 공급 체계를 구축 중이다.",
+  "numbers": [
+   "53%"
+  ],
+  "note": "양육 프로그램은 부모 1만 4,000명 이상에 도달, UNICEF와 PNG 정부 협력 40주년",
+  "sources": [
+   {
+    "title": "UNICEF 파푸아뉴기니 보도자료 (11.12)",
+    "url": "https://www.unicef.org/png/press-releases/unicef-calls-continued-investment-papua-new-guineas-children-el-ni%C3%B1o-deepens",
+    "date": "11.12"
+   }
+  ],
+  "countries": [
+   "파푸아뉴기니"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261112-52",
+  "issue": 0,
+  "issue_date": "2026-11-12",
+  "date": "2026-11-12",
+  "org": "UNSC",
+  "also": [
+   "PKO"
+  ],
+  "type": "결의",
+  "title": "안보리, 11월 12일 중앙아프리카공화국 평화유지임무(MINUSCA) 임기 연장 결의 채택",
+  "summary": "안보리가 11월 15일 만료 예정이던 MINUSCA의 임기를 연장하는 결의를 11월 12일 채택했다. 수단, 차드와 접한 바카가주 지방정부와 주민들은 암다포크 공격 이후 민간인 보호와 국가 권위 회복을 지원해 온 임무가 이어지게 됐다며 환영했다. MINUSCA는 10월 26일부터 티링굴루에 병력을 배치해 민간인 보호를 강화하고 있다.",
+  "numbers": [
+   "11월 15일",
+   "11월 12일",
+   "10월 26일"
+  ],
+  "note": "미확인: 결의 번호, 표결 결과, 연장 기한, 병력 상한 조정 내용(1차 출처 미확인)",
+  "sources": [
+   {
+    "title": "ReliefWeb, MINUSCA (11.17)",
+    "url": "https://reliefweb.int/report/central-african-republic/vakaga-authorities-and-residents-welcome-renewal-minuscas-mandate",
+    "date": "11.17"
+   },
+   {
+    "title": "ReliefWeb, MINUSCA (11.12)",
+    "url": "https://reliefweb.int/report/central-african-republic/why-central-african-republic-peacekeeping-success-story",
+    "date": "11.12"
+   }
+  ],
+  "countries": [
+   "중앙아프리카공화국"
+  ],
+  "collected": "backfill"
  },
  {
   "id": "o-20261113-01",
@@ -1315,6 +1921,105 @@
   ],
   "countries": [],
   "from_story": "s-20261113-27"
+ },
+ {
+  "id": "o-20261113-51",
+  "issue": 0,
+  "issue_date": "2026-11-13",
+  "date": "2026-11-13",
+  "org": "COP",
+  "also": [
+   "UNSG"
+  ],
+  "type": "회의",
+  "title": "COP31 기후재원 논의, 구테흐스 \"적응재원 세 배로 늘려도 필요액 30%에 못 미쳐\", 1조 3천억 달러 목표에 연 8,400억 달러 부족 전망",
+  "summary": "안탈리아 COP31에서 구테흐스 사무총장은 임기 중 마지막 COP 기자회견에서 적응재원을 세 배로 늘려도 취약국 수요의 30%에 못 미친다며 국제금융체계 개혁을 요구했다. 선진국은 2035년까지 연 3,000억 달러 이상 동원을 이끌어야 하지만, 현 추세라면 더 넓은 1조 3천억 달러 목표에 해마다 8,400억 달러가 모자랄 것이라는 평가가 소개됐다. 영국, 노르웨이, 캐나다 개발금융기관은 2030년까지 신흥시장 기후사업에 100억 달러를 동원하겠다고 밝혔다.",
+  "numbers": [
+   "30%",
+   "3,000억 달러",
+   "1조 3천억 달러",
+   "8,400억 달러",
+   "100억 달러"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "UN News (11.13)",
+    "url": "https://news.un.org/en/story/2026/11/1168802",
+    "date": "11.13"
+   }
+  ],
+  "countries": [],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261113-52",
+  "issue": 0,
+  "issue_date": "2026-11-13",
+  "date": "2026-11-13",
+  "org": "IOM",
+  "also": [],
+  "type": "호소",
+  "title": "IOM \"예멘 실향민 34만 명 넘어\", 타이즈 66%… 수송로 제한으로 구호 차질",
+  "summary": "IOM은 예멘에서 교전과 치안 악화로 34만 명 이상이 집을 떠났고, 주요 수송로 제한이 구호 전달을 더 어렵게 한다고 경고했다. 실향민은 타이즈 22만 4,819명(66%), 라흐즈 7만 2,018명(21%), 호데이다 4만 782명(12%)에서 주로 발생했다. IOM은 8월 이후 2만 1,384가구에 거처와 식수, 현금 등을 지원했으며 추가 재원과 접근 보장을 요청했다.",
+  "numbers": [
+   "34만 명",
+   "22만 4,819명",
+   "66%",
+   "7만 2,018명",
+   "21%",
+   "4만 782명",
+   "12%",
+   "2만 1,384가구"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "IOM 보도자료, ReliefWeb (11.13)",
+    "url": "https://reliefweb.int/report/yemen/displacement-tops-340000-yemen-restrictions-hamper-humanitarian-response",
+    "date": "11.13"
+   }
+  ],
+  "countries": [
+   "예멘"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261113-53",
+  "issue": 0,
+  "issue_date": "2026-11-13",
+  "date": "2026-11-13",
+  "org": "WFP",
+  "also": [
+   "FAO",
+   "UNICEF",
+   "WHO",
+   "IPC"
+  ],
+  "type": "보고서",
+  "title": "DR콩고 IPC \"2027년 상반기 급성 식량불안 3,030만 명 사상 최대\", 비상 단계 420만 명",
+  "summary": "최신 IPC 분석에 따르면 DR콩고에서 2027년 1~6월 위기 이상 단계 인구가 사상 최대인 3,030만 명으로 올해 상반기 2,650만 명보다 늘 전망이다. 현재(2026년 9~12월)도 약 2,900만 명이 위기 이상이고 비상 단계는 360만 명에서 내년 초 420만 명으로 증가한다. 북키부, 남키부, 이투리에서만 1,100만 명 이상이 위기 이상으로 예상되며, 4개 기구는 분쟁과 에볼라가 겹친 상황에서 지원이 수요를 따라가지 못한다고 경고했다.",
+  "numbers": [
+   "3,030만 명",
+   "2,650만 명",
+   "약 2,900만 명",
+   "360만 명",
+   "420만 명",
+   "1,100만 명"
+  ],
+  "note": "10.30 IPC 경보(2,880만 명) 후속 정식 분석",
+  "sources": [
+   {
+    "title": "WFP 공동 보도자료 (11.13)",
+    "url": "https://www.wfp.org/news/conflict-and-disease-outbreaks-deepen-dr-congos-hunger-crisis-record-numbers-are-projected",
+    "date": "11.13"
+   }
+  ],
+  "countries": [
+   "DR콩고"
+  ],
+  "collected": "backfill"
  },
  {
   "id": "o-20261114-01",
@@ -1510,6 +2215,101 @@
   "from_story": "s-20261115-23"
  },
  {
+  "id": "o-20261115-51",
+  "issue": 0,
+  "issue_date": "2026-11-15",
+  "date": "2026-11-15",
+  "org": "ASEAN",
+  "also": [],
+  "type": "결의",
+  "title": "아세안 정상, 5개항 합의 이행 검토 결정문 채택, 미얀마 정치적 대표 배제 유지하되 진전 따라 단계적 복원 검토",
+  "summary": "마닐라 49차 정상회의에서 정상들은 5개항 합의 이행이 여전히 불충분하다고 평가하고, 미얀마를 정상회의와 외교장관회의에 비정치적 대표로만 참석시키는 기존 결정을 유지했다. 다만 이행에 지속적이고 구체적인 진전이 있으면 정치적 대표를 단계적으로 되돌릴 수 있다며 진전에 연동한 관여 방식을 택했다. 10월 28일 시작된 AHA센터 지원은 처음 닿는 4개 우선 타운십을 포함해 1만 1천여 가구를 대상으로 하며, 장기 특사직 신설 논의도 이어가기로 했다.",
+  "numbers": [
+   "4개",
+   "1만 1천여 가구"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "ASEAN 정상 결정문 (11.15)",
+    "url": "https://asean.org/wp-content/uploads/2026/11/FINAL-ASEAN-Leaders-Review-and-Decision-on-the-Implementation-of-the-Five-Point-Consensus-15-November-2026.pdf",
+    "date": "11.15"
+   }
+  ],
+  "countries": [
+   "미얀마"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261115-52",
+  "issue": 0,
+  "issue_date": "2026-11-15",
+  "date": "2026-11-15",
+  "org": "ICRC",
+  "also": [],
+  "type": "성명",
+  "title": "예멘 사나 당국, ICRC 지원 속 분쟁 관련 구금자 600명 일방 석방",
+  "summary": "예멘 사나 당국이 분쟁과 관련해 붙잡고 있던 600명을 일방적으로 풀어줬고, ICRC는 석방에 앞서 개별 면담과 건강 점검을 하고 귀가를 도왔다. 이번 석방은 국가수감자위원회가 주도해 스톡홀름 합의 틀 밖에서 이뤄졌으며, ICRC는 대상자 선정과 규모 결정에 관여하지 않았다고 밝혔다. ICRC는 당사자들이 요청하면 앞으로의 석방, 이송, 송환에서 중립적 중개자 역할을 맡을 준비가 돼 있다고 덧붙였다.",
+  "numbers": [
+   "600명"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "ICRC 보도자료 (11.15, ReliefWeb)",
+    "url": "https://reliefweb.int/report/yemen/yemen-600-conflict-related-detainees-released-sanaa-enar",
+    "date": "11.15"
+   }
+  ],
+  "countries": [
+   "예멘"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261115-53",
+  "issue": 0,
+  "issue_date": "2026-11-15",
+  "date": "2026-11-15",
+  "org": "WHO",
+  "also": [
+   "UNICEF",
+   "UNFPA",
+   "WFP"
+  ],
+  "type": "성명",
+  "title": "DR콩고 에볼라 6개월 공동성명 \"누적 1만 1천 명 감염 5,400명 사망\", 매주 400~500명 신규 확진",
+  "summary": "WHO, UNICEF, UNFPA, WFP, 아프리카 질병통제예방센터는 에볼라 발생 6개월을 맞아 누적 1만 1천여 명 감염과 5,400명 사망이 보고됐다고 밝혔다. 초기 진원지 전파는 꺾였지만 여전히 매주 400~500명이 새로 확진되고 8개 주 67개 보건구역으로 번졌으며, 케냐와 나이지리아에서 유입 사례도 나왔다. 확진 사망의 3분의 2가 지역사회에서 발생해 접근이 어려운 지역 도달이 관건이라고 강조했다.",
+  "numbers": [
+   "1만 1천여 명",
+   "5,400명",
+   "400~500명",
+   "8개 주",
+   "67개 보건구역",
+   "3분의 2"
+  ],
+  "note": "UNICEF(11.13): 11.4 기준 아동 확진 2,959명, 사망 1,737명",
+  "sources": [
+   {
+    "title": "WHO 등 공동성명, ReliefWeb (11.15)",
+    "url": "https://reliefweb.int/report/democratic-republic-congo/joint-statement-six-months-accessing-hard-reach-communities-key-halting-ebola-outbreak",
+    "date": "11.15"
+   },
+   {
+    "title": "UNICEF 자료 (11.13)",
+    "url": "https://www.unicef.org/press-releases/fast-facts-ebola-outbreak-toll-children-six-months-response-unicef",
+    "date": "11.13"
+   }
+  ],
+  "countries": [
+   "DR콩고",
+   "케냐",
+   "나이지리아"
+  ],
+  "collected": "backfill"
+ },
+ {
   "id": "o-20261116-01",
   "issue": 14,
   "issue_date": "2026-11-16",
@@ -1610,6 +2410,105 @@
   ],
   "countries": [],
   "from_story": "s-20261116-25"
+ },
+ {
+  "id": "o-20261116-51",
+  "issue": 0,
+  "issue_date": "2026-11-16",
+  "date": "2026-11-16",
+  "org": "IFRC",
+  "also": [],
+  "type": "자금",
+  "title": "IFRC, 소말리아 푼틀란드 콜레라 대응에 DREF 24만 1,433 스위스프랑 배정, 3만 6,240명 지원",
+  "summary": "무두그주 자리반 지구 발리부슬레 마을에서 콜레라가 확진된 급성수양성설사가 번져 10월 18일까지 69건이 보고됐다. IFRC는 소말리아 적신월사 대응을 위해 24만 1,433 스위스프랑을 배정했고, 위험 인구 7만 18명 가운데 3만 6,240명을 4개월간 지원한다. 지역 수원에서 대장균 오염이 확인돼 우기에 확산이 커질 수 있다는 우려가 나온다.",
+  "numbers": [
+   "69건",
+   "24만 1,433 스위스프랑",
+   "7만 18명",
+   "3만 6,240명",
+   "4개월"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "IFRC DREF 운영 MDRSO028 (11.16, ReliefWeb)",
+    "url": "https://reliefweb.int/report/somalia/somalia-cholera-response-dref-operation-mdrso028",
+    "date": "11.16"
+   }
+  ],
+  "countries": [
+   "소말리아"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261116-52",
+  "issue": 0,
+  "issue_date": "2026-11-16",
+  "date": "2026-11-16",
+  "org": "OCHA",
+  "also": [
+   "UNSC"
+  ],
+  "type": "회의",
+  "title": "OCHA 안보리 시리아 브리핑 \"월동 지원 필요 240만 명, 호소는 3분의 1만 확보\"… WFP 식량지원 절반 축소",
+  "summary": "야히야 OCHA 사무차장보는 안보리에서 2024년 12월 이후 약 400만 명의 시리아인이 자발적으로 귀환했지만 73만 명 이상이 여전히 캠프에 산다고 보고했다. 지난 회의 이후 폭발물로 30명(아동 19명)이 숨졌고, 겨울철 추가 지원이 필요한 240만 명 가운데 월동계획은 97만 명을 목표로 한다. 시리아 인도적 호소는 3분의 1만 모여 WFP가 식량지원을 절반으로 줄이고 UNFPA는 보건시설 28곳 이상을 닫았다.",
+  "numbers": [
+   "약 400만 명",
+   "73만 명",
+   "30명",
+   "19명",
+   "240만 명",
+   "97만 명",
+   "3분의 1",
+   "28곳"
+  ],
+  "note": "데이르에즈조르에서 소아마비 바이러스 아동 2명 검출, 3만 4천 명 이상 접종(WHO 11.09 발표)",
+  "sources": [
+   {
+    "title": "OCHA 안보리 브리핑 (11.16)",
+    "url": "https://www.unocha.org/news/syrians-cannot-afford-more-instability-un-deputy-relief-chief-tells-security-council",
+    "date": "11.16"
+   },
+   {
+    "title": "WHO 보도자료, ReliefWeb (11.09)",
+    "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-launches-coordinated-public-health-response-following-poliovirus-detection-deir-ezzor-enar",
+    "date": "11.09"
+   }
+  ],
+  "countries": [
+   "시리아"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261116-53",
+  "issue": 0,
+  "issue_date": "2026-11-16",
+  "date": "2026-11-16",
+  "org": "UNSG",
+  "also": [
+   "ASEAN"
+  ],
+  "type": "성명",
+  "title": "구테흐스, 임기 마지막 ASEAN UN 정상회의서 미얀마 인도적 접근 촉구… \"로힝야 120만 명 여전히 책임규명 기다려\"",
+  "summary": "구테흐스 사무총장은 마닐라에서 열린 ASEAN UN 정상회의에서 미얀마 사태로 인한 고통이 극에 달했다며 모든 당사자에게 민간인 보호와 제약 없는 인도적 접근을 요구했다. 방글라데시 캠프에 사는 로힝야 난민 약 120만 명이 강제 이주 후 10년 가까이 책임규명과 안전한 귀환 여건을 기다리고 있다고 지적했다. 기자회견에서는 아웅산수치를 포함한 자의적 구금자의 즉각 석방을 거듭 요구했다.",
+  "numbers": [
+   "120만 명"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "UN News (11.16)",
+    "url": "https://news.un.org/en/story/2026/11/1168809",
+    "date": "11.16"
+   }
+  ],
+  "countries": [
+   "미얀마",
+   "방글라데시"
+  ],
+  "collected": "backfill"
  },
  {
   "id": "o-20261117-01",
@@ -1715,6 +2614,190 @@
   "from_story": "s-20261117-20"
  },
  {
+  "id": "o-20261117-51",
+  "issue": 0,
+  "issue_date": "2026-11-17",
+  "date": "2026-11-17",
+  "org": "ICRC",
+  "also": [],
+  "type": "성명",
+  "title": "ICRC \"소말리아 바이도아 교전으로 1만 8천여 명 실향\", 엘니뇨 홍수 위험까지 겹쳐",
+  "summary": "ICRC는 남서부주 바이도아 일대 교전으로 1만 8천 명 이상이 집을 떠났고, 엘니뇨에 따른 폭우와 홍수 위험까지 닥쳤다고 밝혔다. 베이 지역에는 50만 명이 넘는 실향민이 머물며, IPC 전문가들은 바이도아 실향민 약 2만 6천 명이 12월 말까지 심각한 식량불안에 빠질 수 있다고 봤다. ICRC와 소말리아 적신월사는 부상자 500여 명을 병원으로 옮기고 약 2천 가구에 현금을 지원했다.",
+  "numbers": [
+   "1만 8천 명 이상",
+   "50만 명",
+   "약 2만 6천 명",
+   "500여 명",
+   "약 2천 가구"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "ICRC 보도자료 (11.17, ReliefWeb)",
+    "url": "https://reliefweb.int/report/somalia/somalia-baidoa-communities-bear-cost-renewed-fighting-el-nino-looms",
+    "date": "11.17"
+   }
+  ],
+  "countries": [
+   "소말리아"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261117-52",
+  "issue": 0,
+  "issue_date": "2026-11-17",
+  "date": "2026-11-17",
+  "org": "IOM",
+  "also": [
+   "WFP"
+  ],
+  "type": "호소",
+  "title": "IOM와 WFP \"가자 겨울 덮쳐 식량과 거처 지원 바닥\"… IOM 거처 1억 7,300만 달러, WFP 6개월 4억 3,600만 달러 부족",
+  "summary": "IOM와 WFP는 가자에서 170만 명 이상이 실향 상태이고 140만 명이 급성 기아, 198만 명이 거처 지원을 필요로 한다며 재원 부족과 접근 제한을 경고했다. 11월 초 이후 거처 4만 동 이상이 추가로 파손됐고, 1,700개 실향민 거주지의 절반 이상이 침수 위험 지역에 있다. IOM은 거처 대응에 1억 7,300만 달러가 필요하며, WFP는 재원 부족으로 따뜻한 식사를 격일로 줄였고 향후 6개월 4억 3,600만 달러가 모자란다.",
+  "numbers": [
+   "170만 명",
+   "140만 명",
+   "198만 명",
+   "4만 동",
+   "1,700개",
+   "1억 7,300만 달러",
+   "4억 3,600만 달러"
+  ],
+  "note": "부지 정비에 900만 달러 별도 필요",
+  "sources": [
+   {
+    "title": "WFP와 IOM 공동 보도자료 (11.17)",
+    "url": "https://www.wfp.org/news/winter-hits-gaza-hard-food-and-shelter-aid-runs-short-iom-and-wfp-warn",
+    "date": "11.17"
+   }
+  ],
+  "countries": [
+   "팔레스타인"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261117-53",
+  "issue": 0,
+  "issue_date": "2026-11-17",
+  "date": "2026-11-17",
+  "org": "UNDP",
+  "also": [
+   "EU"
+  ],
+  "type": "성명",
+  "title": "UNDP와 EU, 내부자 중재 협력 새 단계(2026~2029) 출범, 신속대응 기제로 지역 평화활동가 지원",
+  "summary": "UNDP와 EU는 지역사회 안에서 신뢰받는 중재자를 돕는 협력의 새 단계를 시작하면서, 긴장이 높아질 때 유연한 재원과 기술지원을 바로 내주는 신속대응 기제를 도입했다. 이전 단계(2023~2026)는 감비아, 말리, 파푸아뉴기니, 예멘 등 8개국에서 운영됐고 중재자 90여 명이 참여하는 실무공동체를 만들었다. 새 단계는 여성과 청년의 참여 확대에 무게를 둔다.",
+  "numbers": [
+   "8개국",
+   "90여 명"
+  ],
+  "note": "미확인: 새 단계 재원 규모",
+  "sources": [
+   {
+    "title": "UNDP 보도자료 (11.17, ReliefWeb)",
+    "url": "https://reliefweb.int/report/world/eu-and-undp-expand-partnership-strengthen-local-conflict-prevention-and-peacebuilding",
+    "date": "11.17"
+   }
+  ],
+  "countries": [
+   "말리",
+   "파푸아뉴기니",
+   "예멘",
+   "감비아"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261117-54",
+  "issue": 0,
+  "issue_date": "2026-11-17",
+  "date": "2026-11-17",
+  "org": "UNFPA",
+  "also": [],
+  "type": "보고서",
+  "title": "UNFPA 레바논 상황보고서, 국내실향민 30만 4,520명 중 53%가 여성과 소녀… 병원 3곳과 1차보건센터 21곳 폐쇄",
+  "summary": "UNFPA가 11월 17일 낸 레바논 위기 상황보고서(10월 9일~11월 8일)에 따르면 10월 28일 기준 국내실향민은 30만 4,520명이며 이 가운데 53%가 여성과 소녀다. 남부의 적대행위와 이동 제한, 폭발물 오염 탓에 병원 3곳과 1차보건센터 21곳이 문을 닫았고 병원 17곳이 피해를 입었다. UNFPA는 3월 2일 위기 발생 이후 여성과 소녀 5만 7,000명 이상에게 성생식보건 서비스를 제공했고 5,423명의 안전한 시설 분만을 지원했다.",
+  "numbers": [
+   "30만 4,520명",
+   "53%",
+   "3곳",
+   "21곳",
+   "17곳",
+   "5만 7,000명",
+   "5,423명"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "UNFPA 레바논 상황보고서 (ReliefWeb, 11.17)",
+    "url": "https://reliefweb.int/report/lebanon/unfpa-situation-report-lebanon-crisis-9-october-8-november-2026",
+    "date": "11.17"
+   }
+  ],
+  "countries": [
+   "레바논"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261117-55",
+  "issue": 0,
+  "issue_date": "2026-11-17",
+  "date": "2026-11-17",
+  "org": "UNWOMEN",
+  "also": [],
+  "type": "성명",
+  "title": "UN Women 가자 성명, 홍수와 하수 범람 속 네 번째 겨울… 가구 4곳 중 1곳은 여성 가장",
+  "summary": "UN Women은 11월 17일 제네바에서 낸 성명에서 가자의 홍수와 하수가 임시 거처와 텐트를 덮쳐 질병과 쥐가 번지고 있으며, 가사 부담을 떠안은 여성들이 네 번째 겨울을 버티고 있다고 밝혔다. 약 100만 명이 침수 위험 지역으로 내몰렸고 가자 가구 4곳 중 1곳은 여성이 가장인데, 이들 가구는 홍수 이전부터 부적절한 거처에 살 가능성이 더 높았다. UN Women은 내구성 있는 거처 자재와 월동 물자가 막힘 없이 대규모로 반입돼야 한다고 촉구했다.",
+  "numbers": [
+   "100만 명",
+   "4곳 중 1곳"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "UN Women 성명 (ReliefWeb, 11.17)",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/un-women-statement-gazas-women-struggle-keep-their-families-afloat-rain-and-sewage-flood-their-makeshift-shelters",
+    "date": "11.17"
+   }
+  ],
+  "countries": [
+   "팔레스타인"
+  ],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261117-56",
+  "issue": 0,
+  "issue_date": "2026-11-17",
+  "date": "2026-11-17",
+  "org": "WHO",
+  "also": [],
+  "type": "호소",
+  "title": "WHO \"수단 보건지원 필요 2,100만 명, 보건시설 37% 기능 상실\"… 백나일과 북코르도판 지원 확대 촉구",
+  "summary": "WHO는 11월 7~12일 백나일주 코스티와 북코르도판주 엘오베이드를 점검한 뒤 두 지역 필수 보건서비스 유지를 위한 지속적 지원을 요청했다. 수단 전역에서 2,100만 명이 보건 지원을 필요로 하고 보건시설 37%가 작동하지 않으며, 잦은 정전이 수술실과 투석, 산소 생산을 위협하고 있다. 백나일주에는 국내실향민 21만 6천여 명과 수단 내 난민의 약 절반인 45만 5천여 명이 머문다.",
+  "numbers": [
+   "2,100만 명",
+   "37%",
+   "21만 6천여 명",
+   "45만 5천여 명"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "WHO 보도자료, ReliefWeb (11.17)",
+    "url": "https://reliefweb.int/report/sudan/who-calls-urgent-sustained-support-protect-essential-health-services-sudan",
+    "date": "11.17"
+   }
+  ],
+  "countries": [
+   "수단"
+  ],
+  "collected": "backfill"
+ },
+ {
   "id": "o-20261118-01",
   "issue": 16,
   "issue_date": "2026-11-18",
@@ -1799,6 +2882,61 @@
   ],
   "countries": [],
   "from_story": "s-20261118-23"
+ },
+ {
+  "id": "o-20261118-51",
+  "issue": 0,
+  "issue_date": "2026-11-18",
+  "date": "2026-11-18",
+  "org": "COP",
+  "also": [],
+  "type": "회의",
+  "title": "COP31 2차 전지구적 이행점검 착수, 미해결 쟁점 21개 남아 재원과 화석연료 놓고 교착",
+  "summary": "안탈리아 COP31에서 파리협정의 5년 주기 점검인 2차 전지구적 이행점검이 시작됐으며 2028년 마무리된다. 의장국 서한에 따르면 적응, 재원, 감축, 정의로운 전환 등 21개 쟁점이 풀리지 않았고, 시민사회는 일부 재원 협상문이 통째로 괄호에 묶여 있다고 비판했다. 취약국들은 IPCC 차기 보고서가 점검에 반영되도록 일정을 맞추라고 요구했지만 러시아, 사우디아라비아, 중국은 일정이 촉박하다고 맞섰다.",
+  "numbers": [
+   "21개"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "UN News (11.18)",
+    "url": "https://news.un.org/en/story/2026/11/1168833",
+    "date": "11.18"
+   }
+  ],
+  "countries": [],
+  "collected": "backfill"
+ },
+ {
+  "id": "o-20261118-52",
+  "issue": 0,
+  "issue_date": "2026-11-18",
+  "date": "2026-11-18",
+  "org": "UNICEF",
+  "also": [],
+  "type": "성명",
+  "title": "UNICEF \"예멘 교전 격화 이후 아동 64명 사망 64명 부상\", 타이즈 80만 명 고립… 56만 명 대상 긴급대응",
+  "summary": "UNICEF는 9월 3일 교전 격화 이후 예멘에서 아동 최소 64명이 숨지고 64명이 다쳤으며 타이즈와 라흐즈 인근 교전으로 더 늘 수 있다고 밝혔다. 실향민은 33만 명을 넘었고(아동 약 17만 4천 명), 아덴발 주도로가 막힌 타이즈시는 10월 말 기준 80만 명 이상이 지원에서 끊겼다. 학교 1,160곳 이상이 문을 닫았고, UNICEF는 최대 56만 명을 대상으로 보건과 영양, 식수 지원을 늘리고 있다.",
+  "numbers": [
+   "64명",
+   "33만 명",
+   "약 17만 4천 명",
+   "80만 명",
+   "1,160곳",
+   "56만 명"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "UNICEF 보도자료 (11.18)",
+    "url": "https://www.unicef.org/press-releases/least-64-children-killed-and-64-injured-yemen-intensified-hostilities-approach-three",
+    "date": "11.18"
+   }
+  ],
+  "countries": [
+   "예멘"
+  ],
+  "collected": "backfill"
  },
  {
   "id": "o-20261119-01",
@@ -1912,5 +3050,37 @@
   ],
   "countries": [],
   "from_story": "s-20261119-22"
+ },
+ {
+  "id": "o-20261119-51",
+  "issue": 0,
+  "issue_date": "2026-11-19",
+  "date": "2026-11-19",
+  "org": "UNFPA",
+  "also": [],
+  "type": "보고서",
+  "title": "UNFPA 「2026 세계인구현황」 발간, 청년 5명 중 1명 니트… 분쟁지 50km 내 10~24세 3억 4,000만 명",
+  "summary": "UNFPA가 11월 19일 「2026 세계인구현황 보고서: 후속 세대」를 내고 경제 불안, 분쟁, 기후변화, 보건개발 재원의 대폭 삭감이 청년의 자립과 결혼, 출산을 가로막고 있다고 경고했다. 전 세계 청년 5명 중 1명은 고용, 교육, 훈련 어디에도 속하지 않으며, 저소득국에서는 청년 성인 5명 중 4명이 안정적인 유급 일자리를 갖지 못했다. 활동 중인 분쟁 지역 50km 이내에 사는 10~24세 인구는 1990년 1억 6,400만 명에서 2022년 3억 4,000만 명으로 두 배 넘게 늘었다.",
+  "numbers": [
+   "5명 중 1명",
+   "5명 중 4명",
+   "1억 6,400만 명",
+   "3억 4,000만 명"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "UNFPA 보도자료 (11.19)",
+    "url": "https://www.unfpa.org/press/unfpa-warns-world-risks-letting-next-generation-down",
+    "date": "11.19"
+   },
+   {
+    "title": "UNFPA 세계인구현황 2026 보고서 페이지",
+    "url": "https://www.unfpa.org/publications/state-world-population-2026-succeeding-generations",
+    "date": "11.19"
+   }
+  ],
+  "countries": [],
+  "collected": "backfill"
  }
 ]

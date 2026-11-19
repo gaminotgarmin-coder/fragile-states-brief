@@ -4,10 +4,11 @@
  "latest_brief_url": "https://claude.ai/artifact/AJ739nkEC36rNACfPXSwy5",
  "site_url": "https://fragile-states-brief.vercel.app",
  "months": [
+  "2026-10",
   "2026-11"
  ],
  "counts": {
   "stories": 413,
-  "org_events": 62
+  "org_events": 117
  }
 }

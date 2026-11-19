@@ -652,7 +652,7 @@ button { cursor: pointer; }
     else title.textContent = o ? o.name_ko : state.oorg;
     $('[data-org-sub]').textContent = state.oorg
       ? (o ? `${o.name_en}${o.koica_partner ? ', KOICA 공여 기구' : ''}` : '기구 목록에 없는 코드입니다 (미등록)')
-      : `${label}의 기구 동향을 최신순으로 실었습니다. 왼쪽 색인에서 기구를 고르면 그 기구의 동향과 관련 기사를 모아 요약 자료로 복사할 수 있습니다. 11월 19일 호까지는 클리핑의 국제기구 섹션을 옮긴 것이고, 11월 20일 호부터는 매일 따로 수집한 동향이 더해집니다.`;
+      : `${label}의 기구 동향을 최신순으로 실었습니다. 왼쪽 색인에서 기구를 고르면 그 기구의 동향과 관련 기사를 모아 요약 자료로 복사할 수 있습니다. 11월 3일~19일 호의 국제기구 섹션을 옮긴 기록에, 10월 19일~11월 19일을 기구 원문으로 따로 소급 수집한 동향을 더했고, 11월 20일부터는 매일 따로 수집합니다.`;
     $('[data-oside-sum]').textContent = [label, state.oorg ? orgAbbr(state.oorg) : '전체 기구'].join(', ');
     $('[data-org-count]').innerHTML = `기구 동향 <b>${fmtNum(evs.length)}</b>건`;
     const tl = $('[data-timeline]');
