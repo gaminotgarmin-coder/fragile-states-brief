@@ -511,5 +511,16 @@
    "한국 외교부",
    "한국"
   ]
+ },
+ {
+  "code": "ECW",
+  "name_ko": "교육은 기다릴 수 없다 기금",
+  "name_en": "Education Cannot Wait",
+  "group": "UN 기구",
+  "koica_partner": false,
+  "aliases": [
+   "Education Cannot Wait",
+   "교육은 기다릴 수 없다"
+  ]
  }
 ]

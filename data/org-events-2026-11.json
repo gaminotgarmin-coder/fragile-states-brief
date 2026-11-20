@@ -3322,5 +3322,278 @@
    }
   ],
   "countries": []
+ },
+ {
+  "id": "o-20261121-01",
+  "issue": 19,
+  "issue_date": "2026-11-21",
+  "date": "2026-11-20",
+  "org": "WFP",
+  "also": [],
+  "type": "보고서",
+  "title": "세계식량계획 2027년 세계 전망 발표, 9,100만 명 지원에 121억 5천만 달러 요청",
+  "summary": "세계식량계획이 20일 2027년 세계 전망을 내고 지원 대상을 올해 1억 300만 명에서 9,100만 명으로 줄인다고 밝혔다. 소요액은 121억 5천만 달러이며 72%가 긴급 대응, 24%가 복원력, 4%가 근본 원인 대응이다. 급성 기아 인구는 2억 6,600만 명이고 올해는 요청액 130억 달러의 절반가량만 확보했다.",
+  "numbers": [
+   "121억 5천만 달러",
+   "9,100만 명",
+   "2억 6,600만 명",
+   "동부와 남부 아프리카 46억 달러"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "세계식량계획 (11.20)",
+    "url": "https://www.wfp.org/stories/4-things-know-about-wfps-2027-global-outlook",
+    "date": "11.20"
+   },
+   {
+    "title": "UN News (11.20)",
+    "url": "https://news.un.org/en/story/2026/11/1168846",
+    "date": "11.20"
+   },
+   {
+    "title": "유엔 제네바 사무소 (11.20)",
+    "url": "https://www.unognewsroom.org/story/en/3330/un-geneva-press-briefing-20-november-2026",
+    "date": "11.20"
+   }
+  ],
+  "countries": [
+   "수단",
+   "남수단",
+   "예멘",
+   "소말리아",
+   "레바논"
+  ]
+ },
+ {
+  "id": "o-20261121-02",
+  "issue": 19,
+  "issue_date": "2026-11-21",
+  "date": "2026-11-20",
+  "org": "COP",
+  "also": [],
+  "type": "회의",
+  "title": "안탈리아 기후총회 20일 폐막 시한 넘겨 연장, 최종 결정문 미채택",
+  "summary": "기후총회가 화석연료와 재원 이견으로 20일 시한을 넘겼다. 8개국이 화석연료 전환 문구 복원을 요구하고 있고 새 초안은 21일 오전 이후에야 나올 전망이다. 19일 초안은 적응재원 1,200억 달러 목표를 뺐다.",
+  "numbers": [
+   "1,200억 달러",
+   "8개국"
+  ],
+  "note": "최종 문안과 채택 시점은 미확인이다.",
+  "sources": [
+   {
+    "title": "Reuters, WHTC 전재 (11.20)",
+    "url": "https://whtc.com/2026/11/20/cop31-climate-talks-spill-into-overtime-as-nations-quarrel-over-fossil-fuels/",
+    "date": "11.20"
+   },
+   {
+    "title": "The Guardian, AOL 전재 (11.20)",
+    "url": "https://www.aol.co.uk/articles/cop31-talks-overtime-fossil-fuels-185622000.html",
+    "date": "11.20"
+   },
+   {
+    "title": "UN News (11.19)",
+    "url": "https://news.un.org/en/story/2026/11/1168839",
+    "date": "11.19"
+   }
+  ],
+  "countries": []
+ },
+ {
+  "id": "o-20261121-03",
+  "issue": 19,
+  "issue_date": "2026-11-21",
+  "date": "2026-11-20",
+  "org": "ECW",
+  "also": [
+   "UNICEF"
+  ],
+  "type": "자금",
+  "title": "교육은 기다릴 수 없다 기금, 레바논과 미얀마, 남수단 아동 30만 명 교육에 5,200만 달러 배정",
+  "summary": "기금이 세계 어린이날인 20일 제네바에서 레바논 1,300만 달러, 미얀마 1,600만 달러, 남수단 2,300만 달러 지원을 발표했다. 500만 달러 이상은 위기 대응 예비분으로 둔다. 2027~2030년 재원 보충은 목표 6억 달러의 90%에 이르렀고 5,840만 달러가 부족하다.",
+  "numbers": [
+   "5,200만 달러",
+   "약 30만 명",
+   "6억 달러의 90%",
+   "부족분 5,840만 달러"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "PR Newswire, 기금 발표 (11.20)",
+    "url": "https://www.prnewswire.com/news-releases/education-cannot-wait-announces-us52-million-to-keep-300-000-children-learning-in-lebanon-myanmar-and-south-sudan-302947091.html",
+    "date": "11.20"
+   },
+   {
+    "title": "UN News (11.20)",
+    "url": "https://news.un.org/en/story/2026/11/1168847",
+    "date": "11.20"
+   }
+  ],
+  "countries": [
+   "레바논",
+   "미얀마",
+   "남수단"
+  ]
+ },
+ {
+  "id": "o-20261121-04",
+  "issue": 19,
+  "issue_date": "2026-11-21",
+  "date": "2026-11-20",
+  "org": "UNICEF",
+  "also": [
+   "OHCHR"
+  ],
+  "type": "성명",
+  "title": "유니세프 \"2026년은 우크라이나 아동에게 가장 치명적인 해\", 1~10월 114명 사망",
+  "summary": "유니세프가 20일 키이우에서 올해 1~10월 아동 114명이 숨지고 1,030명이 다쳤다고 밝혔다. 사망은 지난해 전체보다 20% 넘게, 부상은 60% 가까이 많다. 유엔이 전쟁 이후 확인한 교육시설 공격은 약 2,000건이며 올해만 약 270건이다.",
+  "numbers": [
+   "사망 114명",
+   "부상 1,030명",
+   "교육시설 공격 약 2,000건"
+  ],
+  "note": "사상자 수는 유엔 우크라이나 인권감시단 집계다.",
+  "sources": [
+   {
+    "title": "UN News (11.20)",
+    "url": "https://news.un.org/en/story/2026/11/1168847",
+    "date": "11.20"
+   },
+   {
+    "title": "유엔 제네바 사무소 (11.20)",
+    "url": "https://www.unognewsroom.org/story/en/3330/un-geneva-press-briefing-20-november-2026",
+    "date": "11.20"
+   }
+  ],
+  "countries": [
+   "우크라이나"
+  ]
+ },
+ {
+  "id": "o-20261121-05",
+  "issue": 19,
+  "issue_date": "2026-11-21",
+  "date": "2026-11-20",
+  "org": "UNESCO",
+  "also": [
+   "UNICEF",
+   "OECD"
+  ],
+  "type": "보고서",
+  "title": "유네스코, 유니세프, 경제협력개발기구 2026 세계 영유아 보육교육 보고서 발간",
+  "summary": "세 기구가 20일 파리 유네스코 본부에서 영유아 보육과 교육 재원을 다룬 공동 보고서를 냈다. 보육 정책 격차 해소에 1달러를 투자하면 2035년까지 세계 국내총생산이 3.76달러 늘어난다고 추정했다. 저소득과 중저소득국에서 1년간의 취학 전 교육을 제공하려면 2027~2030년 해마다 690억 달러가 필요하다.",
+  "numbers": [
+   "1달러당 3.76달러",
+   "연 690억 달러",
+   "취학 전 교육 등록률 75%"
+  ],
+  "note": "투자 수익 외 세부 수치는 신화통신 보도로만 확인한 미확인 수치다.",
+  "sources": [
+   {
+    "title": "유네스코 (11.20)",
+    "url": "https://www.unesco.org/en/articles/launch-2026-global-report-early-childhood-care-and-education-unesco",
+    "date": "11.20"
+   },
+   {
+    "title": "신화통신 (11.20)",
+    "url": "https://english.news.cn/20261120/f10d97d086ac422f8fa6746b5224cbab/c.html",
+    "date": "11.20"
+   }
+  ],
+  "countries": []
+ },
+ {
+  "id": "o-20261121-06",
+  "issue": 19,
+  "issue_date": "2026-11-21",
+  "date": "2026-11-18",
+  "org": "UNGA",
+  "also": [
+   "EU"
+  ],
+  "type": "결의",
+  "title": "총회 제3위원회, 로힝야 결의안 찬성 128, 반대 6, 기권 33으로 채택",
+  "summary": "유럽연합과 이슬람협력기구가 발의한 연례 로힝야 결의안이 18일 표결로 채택됐다. 2021~2025년에는 합의로 채택됐으나 올해는 미국이 국제형사재판소 관련 문구를 이유로 표결을 요청하고 기권했다. 결의안은 2026년 공동대응계획 재원 확보를 촉구했다.",
+  "numbers": [
+   "찬성 128",
+   "반대 6",
+   "기권 33"
+  ],
+  "note": "유엔 공식 회의 기록과 대조하지 못했다. 본회의 표결 일정은 미확인이다.",
+  "sources": [
+   {
+    "title": "버마뉴스인터내셔널 (11.20)",
+    "url": "https://www.bnionline.net/en/news/un-general-assembly-adopts-rohingya-resolution-bangladesh-urges-urgent-repatriation",
+    "date": "11.20"
+   },
+   {
+    "title": "DVB English 기고 (11.19)",
+    "url": "https://english.dvb.no/what-the-un-vote-on-myanmar-tells-us-about-washington-and-the-revolution/",
+    "date": "11.19"
+   }
+  ],
+  "countries": [
+   "미얀마",
+   "방글라데시"
+  ]
+ },
+ {
+  "id": "o-20261121-07",
+  "issue": 19,
+  "issue_date": "2026-11-21",
+  "date": "2026-11-19",
+  "org": "PKO",
+  "also": [
+   "UNSG"
+  ],
+  "type": "성명",
+  "title": "유엔 사무국, 평화활동 요원 관련 친자 확인과 양육비 청구 약 500건 미해결 공개",
+  "summary": "유엔이 19일 평화활동 요원과 관련된 친자 확인, 양육비 청구가 2006년 이후 약 800건 접수됐고 약 500건이 해결되지 않았다고 밝혔다. 이 중 약 400건은 친자 판정을 기다리고 있다. 공개 현황판에 청구 처리 상태를 더 자세히 싣기로 했다.",
+  "numbers": [
+   "접수 약 800건",
+   "미해결 약 500건"
+  ],
+  "note": "UN News 보도로 확인했으며 대변인실 브리핑 원문과는 대조하지 못했다.",
+  "sources": [
+   {
+    "title": "UN News (11.19)",
+    "url": "https://news.un.org/en/story/2026/11/1168842",
+    "date": "11.19"
+   }
+  ],
+  "countries": []
+ },
+ {
+  "id": "o-20261121-08",
+  "issue": 19,
+  "issue_date": "2026-11-21",
+  "date": "2026-11-17",
+  "org": "KOR",
+  "also": [
+   "UNICEF",
+   "OCHA"
+  ],
+  "type": "자금",
+  "title": "외교부, 유니세프 통해 페루 엘니뇨 대비에 200만 달러 지원 발표",
+  "summary": "외교부가 17일 유니세프를 통해 페루 홍수 위험 지역의 구호물자 사전 배치에 200만 달러를 지원한다고 발표했다. 유엔 인도주의업무조정국은 7월 중앙긴급대응기금에서 엘니뇨 사전 대응에 1억 달러를 배정한 바 있다.",
+  "numbers": [
+   "200만 달러",
+   "1억 달러"
+  ],
+  "note": "17일 발표로 수집 기간보다 이르지만 앞선 호에 없어 기록한다. 18~20일 한국 정부의 새 기여 발표는 확인하지 못했다.",
+  "sources": [
+   {
+    "title": "정책브리핑, 외교부 보도자료 (11.17)",
+    "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156789618",
+    "date": "11.17"
+   },
+   {
+    "title": "Korea JoongAng Daily (11.17)",
+    "url": "https://www.koreajoongangdaily.com/korea/korea-to-provide-2-million-to-help-peru-prepare-for-el-nino/12977459",
+    "date": "11.17"
+   }
+  ],
+  "countries": []
  }
 ]
