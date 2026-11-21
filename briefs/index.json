@@ -112,5 +112,11 @@
   "issue": 19,
   "path": "briefs/2026-11-21.html",
   "stories": 26
+ },
+ {
+  "date": "2026-11-22",
+  "issue": 20,
+  "path": "briefs/2026-11-22.html",
+  "stories": 23
  }
 ]
