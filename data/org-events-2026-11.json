@@ -3829,5 +3829,272 @@
   "countries": [
    "팔레스타인"
   ]
+ },
+ {
+  "id": "o-20261123-01",
+  "issue": 21,
+  "issue_date": "2026-11-23",
+  "date": "2026-11-22",
+  "org": "COP",
+  "also": [
+   "EU"
+  ],
+  "type": "회의",
+  "title": "안탈리아 기후총회, 약 50시간 연장 끝에 포괄 결정문 없이 폐막, 쟁점은 2027년 아디스아바바로",
+  "summary": "의장이 22일 폐회를 선언하며 포괄 결정문이 채택되지 않았다고 밝혔다. 예정 종료일을 약 50시간 넘겼고, 화석연료 전환 문구를 두고 러시아와 사우디아라비아가 반대했으며 유럽연합과 영국 등은 문구가 빠진 안을 거부했다.\n\n마지막 초안에도 적응재원 목표 수치는 없었고 70여 개국이 지지한 전력화 목표도 빠졌다. 남은 쟁점은 2027년 11월 아디스아바바 총회로 넘어간다.",
+  "numbers": [
+   "약 50시간",
+   "70여 개국",
+   "2035년 35%"
+  ],
+  "note": "개별 결정 3건이 따로 채택됐다는 내용은 한 매체 보도로 공식 문서 확인을 하지 못했다. 미확인.",
+  "sources": [
+   {
+    "title": "Anadolu 통신, Anews (11.22)",
+    "url": "https://www.anews.com.tr/turkey/2026/11/22/cop31-president-closes-climate-summit-without-deal-blames-some-countries-for-failed-talks",
+    "date": "11.22"
+   },
+   {
+    "title": "Time (11.22)",
+    "url": "https://www.yahoo.com/news/science/articles/why-world-climate-talks-broke-203144679.html",
+    "date": "11.22"
+   },
+   {
+    "title": "세계자원연구소 (11.22)",
+    "url": "https://www.wri.org/news/statement-hollow-outcome-cop31-failure-political-leadership",
+    "date": "11.22"
+   }
+  ],
+  "countries": [
+   "튀르키예",
+   "에티오피아"
+  ]
+ },
+ {
+  "id": "o-20261123-02",
+  "issue": 21,
+  "issue_date": "2026-11-23",
+  "date": "2026-11-21",
+  "org": "ICRC",
+  "also": [
+   "UNSG"
+  ],
+  "type": "회의",
+  "title": "특정재래식무기금지협약 평가회의, 자율살상무기 문서 2년 더 논의하기로, 조약 협상 위임은 불발",
+  "summary": "제네바에서 5일간 열린 제7차 평가회의는 정부전문가그룹이 2년 동안 자율살상무기 문서를 마련하고 법적 성격을 권고하도록 합의했다. 사무총장이 2026년 말까지 요구해 온 구속력 있는 조약 협상 위임은 얻지 못했다.\n\n국제적십자위원회는 예측할 수 없는 무기와 사람을 직접 겨냥하는 무기를 금지하는 구속력 있는 문서를 촉구했다.",
+  "numbers": [
+   "5일",
+   "2년"
+  ],
+  "note": "한 매체 보도 기준이다. 미확인.",
+  "sources": [
+   {
+    "title": "Anadolu 통신, Anews (11.21)",
+    "url": "https://www.anews.com.tr/world/2026/11/21/un-sees-progress-on-autonomous-weapons-regulation-despite-lack-of-binding-treaty-mandate",
+    "date": "11.21"
+   }
+  ],
+  "countries": []
+ },
+ {
+  "id": "o-20261123-03",
+  "issue": 21,
+  "issue_date": "2026-11-23",
+  "date": "2026-11-20",
+  "org": "UNICEF",
+  "also": [
+   "OHCHR"
+  ],
+  "type": "성명",
+  "title": "유니세프 \"우크라이나 아동 1~10월 1,144명 사상\", 사망은 이미 작년 전체보다 20% 넘게 많아",
+  "summary": "유니세프는 세계 어린이의 날에 올해 1~10월 우크라이나에서 아동 114명이 숨지고 1,030명이 다쳤다고 밝혔다. 사망은 2025년 전체보다 20% 이상, 부상은 약 60% 늘었다.\n\n10월 한 달 사상자는 146명 이상으로 전년 같은 달보다 150% 증가했다. 에너지 시설 공격은 2025년 전체보다 78% 많다.",
+  "numbers": [
+   "1,144명",
+   "114명",
+   "1,030명",
+   "146명",
+   "78%"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "유니세프 (11.20)",
+    "url": "https://unicef.org/press-releases/child-casualties-ukraine-reach-highest-level-almost-four-years-unicef",
+    "date": "11.20"
+   },
+   {
+    "title": "유엔 제네바 사무소 (11.20)",
+    "url": "https://unognewsroom.org/story/en/3330/un-geneva-press-briefing-20-november-2026",
+    "date": "11.20"
+   }
+  ],
+  "countries": [
+   "우크라이나"
+  ]
+ },
+ {
+  "id": "o-20261123-04",
+  "issue": 21,
+  "issue_date": "2026-11-23",
+  "date": "2026-11-23",
+  "org": "UNSC",
+  "also": [],
+  "type": "일정",
+  "title": "안보리 이번 주 일정: 23일 우크라이나 고위급 브리핑, 25일 미얀마 비공개 협의, 30일 가자 평화위원회 보고서",
+  "summary": "안보리는 23일 의장국 라트비아 대통령 주재로 우크라이나 고위급 브리핑을, 24일 기술 변화와 분쟁 해결을 주제로 한 회의를 연다. 통신사 보도에 따르면 영국 요청으로 25일 미얀마 비공개 협의, 12월 7일 비공개 회의가 잡혔다.\n\n30일에는 가자 평화위원회 반기 보고서를 심의한다. 사무총장 선출은 9차 투표 뒤 다음 일정이 없으며 첫 비공식 투표 뒤 약 113일이 지났다.",
+  "numbers": [
+   "11월 23일",
+   "11월 25일",
+   "11월 30일",
+   "약 113일"
+  ],
+  "note": "미얀마 협의 일정은 통신사 보도 기준이며 유엔 공식 일정표로 확인하지 못했다. 미확인.",
+  "sources": [
+   {
+    "title": "안보리 의장 기자회견 (11.2)",
+    "url": "https://press.un.org/en/261102_sc.doc.htm",
+    "date": "11.2"
+   },
+   {
+    "title": "Ukrinform (11.18)",
+    "url": "https://www.ukrinform.net/rubric-polytics/4185834-un-security-council-to-hold-highlevel-meeting-on-ukraine.html",
+    "date": "11.18"
+   },
+   {
+    "title": "AP 통신, DVB English (11.21)",
+    "url": "https://english.dvb.no/rights-groups-urge-sanctions-after-top-un-court-finds-myanmar-committed-genocide-against-rohingya/",
+    "date": "11.21"
+   },
+   {
+    "title": "PassBlue (11.20)",
+    "url": "https://passblue.com/2026/11/20/un-secretary-general-race-remains-deadlocked-as-veto-powers-fail-to-reach-consensus/",
+    "date": "11.20"
+   }
+  ],
+  "countries": [
+   "우크라이나",
+   "미얀마",
+   "팔레스타인"
+  ]
+ },
+ {
+  "id": "o-20261123-05",
+  "issue": 21,
+  "issue_date": "2026-11-23",
+  "date": "2026-11-20",
+  "org": "UNWOMEN",
+  "also": [
+   "OHCHR"
+  ],
+  "type": "성명",
+  "title": "유엔여성기구 등 공동 성명, 여성폭력 추방의 날 앞두고 법 집행과 여성단체 장기 재원 촉구",
+  "summary": "유엔여성기구 등은 20일 공동 성명에서 법 집행과 예산, 생존자 보호, 인공지능으로 만든 성착취물 대응, 여성단체에 대한 장기 유연 재원을 촉구했다. 여성 3명 중 1명(약 8억 4천만 명)이 폭력을 경험하며 경찰 신고는 10명 중 1명에 못 미친다.\n\n23일 사법 접근 자료, 25일 여성 살해 공동 보고서가 공개되고 12월 10일까지 16일 캠페인이 이어진다.",
+  "numbers": [
+   "약 8억 4천만 명",
+   "11월 25일",
+   "12월 10일"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "유엔여성기구 공동 성명 (11.20)",
+    "url": "https://www.unwomen.org/en/news-stories/statement/2026/11/call-to-action-unite-to-end-violence-against-women-and-girls-ensure-justice-protect-victims-and-survivors-end-impunity",
+    "date": "11.20"
+   },
+   {
+    "title": "유엔여성기구 일정 안내 (11.16)",
+    "url": "https://www.unwomen.org/en/news-stories/media-advisory/2026/11/media-advisory-international-day-for-the-elimination-of-violence-against-women-and-16-days-of-activism-2026",
+    "date": "11.16"
+   }
+  ],
+  "countries": []
+ },
+ {
+  "id": "o-20261123-06",
+  "issue": 21,
+  "issue_date": "2026-11-23",
+  "date": "2026-11-21",
+  "org": "UNWOMEN",
+  "also": [],
+  "type": "인사",
+  "title": "품질레 음람보응쿠카 전 유엔여성기구 총재 71세로 별세",
+  "summary": "2013~2021년 유엔여성기구 총재를 지낸 품질레 음람보응쿠카가 71세로 별세했다. 남아프리카공화국의 첫 여성 부통령이었다.\n\n유엔에이즈계획은 21일 애도 성명에서 그가 남아공 국가에이즈위원회 의장으로 2007년 위원회 개편을 이끌었다고 기렸다.",
+  "numbers": [
+   "71세",
+   "2013~2021년"
+  ],
+  "note": "정확한 사망일과 사인은 성명에 없다.",
+  "sources": [
+   {
+    "title": "유엔에이즈계획 (11.21)",
+    "url": "https://www.unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2026/november/20261121_passing_Mlambo-Ngcuka",
+    "date": "11.21"
+   }
+  ],
+  "countries": [
+   "남아프리카공화국"
+  ]
+ },
+ {
+  "id": "o-20261123-07",
+  "issue": 21,
+  "issue_date": "2026-11-23",
+  "date": "2026-11-18",
+  "org": "UNHCR",
+  "also": [],
+  "type": "성명",
+  "title": "유엔난민기구, 말레이시아에서 난민 등록과 서류 발급 중단, 정부 주도 체계로 이관",
+  "summary": "말레이시아 정부가 난민과 비호신청자 등록을 직접 맡기로 하면서 유엔난민기구는 18일부터 등록과 서류 발급을 멈췄다. 양측은 이행 계획을 협의 중이며 재정착과 긴급 보호 대상자 지원은 계속한다.\n\n국경없는의사회는 20일 취약한 난민의 진료 경로가 사라졌다고 우려했다.",
+  "numbers": [
+   "11월 18일"
+  ],
+  "note": "영향을 받는 등록 난민 수와 두 기관의 성명 원문은 확인하지 못했다. 미확인.",
+  "sources": [
+   {
+    "title": "Bernama (11.19)",
+    "url": "https://www.bernama.com/en/general/news.php?id=2636656",
+    "date": "11.19"
+   },
+   {
+    "title": "The Vibes (11.19)",
+    "url": "https://www.thevibes.com/articles/news/129747/unhcr-suspends-refugee-registration-documentation-services-in-malaysia",
+    "date": "11.19"
+   },
+   {
+    "title": "아시아엔 (11.21)",
+    "url": "https://kor.theasian.asia/archives/422402",
+    "date": "11.21"
+   }
+  ],
+  "countries": [
+   "말레이시아",
+   "미얀마"
+  ]
+ },
+ {
+  "id": "o-20261123-08",
+  "issue": 21,
+  "issue_date": "2026-11-23",
+  "date": "2026-11-20",
+  "org": "G20",
+  "also": [],
+  "type": "일정",
+  "title": "올해 주요 20개국 정상회의는 12월 14~15일 미국 플로리다 도럴 예정, 결과 문서는 아직 없음",
+  "summary": "2026년 주요 20개국 정상회의는 의장국 미국이 12월 14~15일 플로리다 도럴에서 열 예정이어서 아직 결과 문서가 없다. 남아프리카공화국은 초청에서 빠졌다.",
+  "numbers": [
+   "12월 14~15일"
+  ],
+  "note": "11월에 갱신된 자료나 공식 누리집으로 일정을 확인하지 못했다. 미확인.",
+  "sources": [
+   {
+    "title": "토론토대 정보센터",
+    "url": "https://g20.utoronto.ca/summits/2026miami.html",
+    "date": ""
+   }
+  ],
+  "countries": [
+   "미국",
+   "남아프리카공화국"
+  ]
  }
 ]
