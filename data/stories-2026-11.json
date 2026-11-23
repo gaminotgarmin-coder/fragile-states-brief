@@ -19560,5 +19560,935 @@
    }
   ],
   "country_label": "이번 주 일정"
+ },
+ {
+  "id": "s-20261124-01",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "mideast",
+  "countries": [
+   "팔레스타인"
+  ],
+  "places": [
+   "가자"
+  ],
+  "orgs": [
+   "UNRWA"
+  ],
+  "topics": [
+   "분쟁",
+   "보호"
+  ],
+  "headline": "자발리야 급수 시설 인근 공습으로 유엔 팔레스타인 난민기구 직원 1명 사망, 3명 부상… 전쟁 뒤 누적 397명",
+  "summary": "23일 가자 북부 자발리야 난민촌의 우물 근처가 공습을 받아 일상 업무를 하던 유엔 팔레스타인 난민기구 직원 1명이 숨지고 3명이 다쳤다. 크리스티안 손더스 집행위원장 대행은 독립적인 조사와 책임 규명을 요구했다. 기구 집계로 전쟁이 시작된 뒤 숨진 직원과 지원 인력은 397명이다.\n\nReuters는 의료진을 인용해 같은 날 가자시티 서쪽에서 차량이 공습을 받아 2명이 더 숨졌다고 전했다. 이스라엘군은 보도 내용을 확인하고 있다고 밝혔다.",
+  "numbers": [
+   "1명",
+   "3명",
+   "397명"
+  ],
+  "note": "가자시티 차량 공습 사망자 2명은 의료진 전언으로, 유엔 기관 자료로는 확인하지 못했다. 미확인.",
+  "sources": [
+   {
+    "title": "유엔 팔레스타인 난민기구 (11.23)",
+    "url": "https://www.unrwa.org/news-reports/official-statements/unrwa-commissioner-general-ad-interim-christian-saunders-greatly",
+    "date": "11.23"
+   },
+   {
+    "title": "Reuters, Arab News 게재 (11.23)",
+    "url": "https://www.arabnews.pk/middle-east/israeli-strikes-kill-at-least-three-in-gaza-including-worker-with-un-palestinian-agency-3007865",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "가자"
+ },
+ {
+  "id": "s-20261124-02",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-21",
+  "region": "mideast",
+  "countries": [
+   "팔레스타인"
+  ],
+  "places": [
+   "서안"
+  ],
+  "orgs": [
+   "OCHA"
+  ],
+  "topics": [
+   "분쟁",
+   "보호"
+  ],
+  "headline": "예리코 외곽 마을 주택 8채를 정착민이 점거, 충돌 속 72세 여성 총격 사망… 올리브 수확철 공격 400건 넘어",
+  "summary": "AP통신은 11월 4일 일부가 무장한 이스라엘인 수십 명이 예리코 외곽 알두유크 알타흐타의 팔레스타인 주택 8채에 들어가 머물고 있다고 21일 보도했다. 이후 정착민과 마을 청년들이 충돌하는 과정에서 72세 여성이 총에 맞아 숨지고 친척 1명이 다리에 총상을 입었다. 이스라엘군은 차량 돌진 혐의로 팔레스타인 남성 2명을 체포했다고 밝혔고, 이스라엘인 체포는 발표되지 않았다.\n\n인도주의 국가팀은 20일 성명에서 9월 이후 올리브 수확과 관련된 정착민 공격이 400건을 넘어 역대 수확철 가운데 가장 많고, 나무와 묘목 4,000그루 이상이 훼손됐다고 밝혔다.",
+  "numbers": [
+   "8채",
+   "72세",
+   "400건"
+  ],
+  "note": "예리코 사건의 사상자는 AP통신 보도에 따른 것으로 유엔 자료로는 확인하지 못했다. 미확인.",
+  "sources": [
+   {
+    "title": "AP통신, Arab News 게재 (11.21)",
+    "url": "https://www.arabnews.com/middle-east/israeli-settlers-move-into-a-palestinian-neighborhood-brings-deadly-violence-to-jerichos-doorstep-3013291",
+    "date": "11.21"
+   },
+   {
+    "title": "유엔 인도주의업무조정국 (11.20)",
+    "url": "https://www.ochaopt.org/content/israeli-authorities-must-urgently-act-repeated-calls-protect-palestinian-olive-harvesters-amid-unprecedented",
+    "date": "11.20"
+   }
+  ],
+  "country_label": "서안"
+ },
+ {
+  "id": "s-20261124-03",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-22",
+  "region": "mideast",
+  "countries": [
+   "레바논"
+  ],
+  "places": [],
+  "orgs": [],
+  "topics": [
+   "분쟁"
+  ],
+  "headline": "약 3주 만에 남부 포격과 폭파 재개… 자우타르, 크파르 티브닛, 칸타라에서 대규모 철거 폭발",
+  "summary": "Asharq Al-Awsat에 따르면 19일부터 남부 레바논에 대한 이스라엘군의 집중 포격이 다시 시작됐고 19~20일 베카 지역에 두 차례 공습이 있었다. 21일에는 와타 알키암에서 세 차례 폭파가 있었고 크파르 티브닛과 칸타라가 공습을 받았다. 22일 레바논 국영통신은 자우타르 알샤르키야 등 세 곳에서 대규모 철거 폭발이 이어졌다고 전했다. 19~22일 사건의 사상자 수는 보도되지 않았다.\n\n나바티예 알파우카와 자우타르 주민들은 정부의 침묵에 항의했고, 나비 베리 국회의장은 독립이 완성되지 않았다며 독립기념일 축하를 받지 않았다. 레바논 보건부 집계로 전해진 3월 2일~11월 5일 사망자는 4,390명, 부상자는 1만 2,429명이다.",
+  "numbers": [
+   "4,390명",
+   "1만 2,429명"
+  ],
+  "note": "누적 사상자는 보건부 집계를 인용한 언론 보도를 다시 옮긴 것으로 보건부나 유엔 자료로 직접 확인하지 못했다. 미확인. 이 기간 유엔 인도주의업무조정국의 레바논 새 속보는 없었다.",
+  "sources": [
+   {
+    "title": "Asharq Al-Awsat (11.22)",
+    "url": "https://english.aawsat.com/arab-world/5344208-israel-expands-security-%E2%80%98buffer%E2%80%99-south-lebanon-strikes-near-%E2%80%98yellow-line%E2%80%99",
+    "date": "11.22"
+   },
+   {
+    "title": "Daijiworld (11.23)",
+    "url": "https://daijiworld.com/news/newsDisplay?newsID=1336063",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "레바논"
+ },
+ {
+  "id": "s-20261124-04",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "mideast",
+  "countries": [
+   "시리아",
+   "요르단"
+  ],
+  "places": [],
+  "orgs": [],
+  "topics": [
+   "정치"
+  ],
+  "headline": "미국, 시리아군 지뢰와 폭발물 제거 훈련 임무 논의… 내년 3월 요르단과 시리아에서 시작 가능성",
+  "summary": "Reuters는 소식통 5명을 인용해 미국이 시리아군에 지뢰 제거와 폭발물 처리 훈련을 제공하는 방안을 논의하고 있다고 보도했다. 성사되면 2024년 정권 교체 뒤 미군이 시리아군과 하는 첫 훈련 임무다. 훈련은 이르면 2027년 3월 요르단과 시리아에서 시작될 수 있고, 지난해 요르단에 세운 다마스쿠스 조정센터를 바탕으로 약 15개국이 참여하는 구상이다.\n\n한편 하칸 피단 튀르키예 외교장관은 21일 방송 인터뷰에서 이스라엘이 시리아 남부에서 군사작전에 나설 수 있다고 경고하고 1974년 병력분리협정 준수를 촉구했다.",
+  "numbers": [
+   "15개국"
+  ],
+  "note": "훈련 구상은 익명 소식통 보도로 공식 확인이 없고, 남은 작전 예산 약 2억 달러를 쓴다는 내용은 Reuters도 확인하지 못했다. 미확인. 요르단: 인도적 상황과 관련한 새 발표 없음.",
+  "sources": [
+   {
+    "title": "Reuters, The National 게재 (11.23)",
+    "url": "https://www.thenationalnews.com/news/us/2026/11/23/us-syria-troops-training/",
+    "date": "11.23"
+   },
+   {
+    "title": "Asharq Al-Awsat (11.23)",
+    "url": "https://english.aawsat.com/arab-world/5344560-t%C3%BCrkiye-warns-possible-israeli-military-operation-syria",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "시리아, 요르단"
+ },
+ {
+  "id": "s-20261124-05",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "mideast",
+  "countries": [
+   "예멘"
+  ],
+  "places": [],
+  "orgs": [],
+  "topics": [
+   "분쟁"
+  ],
+  "headline": "후티 \"호데이다 통신 시설 공습으로 17명 사망\"… 연합군은 홍해 연안 겨냥 탄도미사일 요격 발표",
+  "summary": "후티 측 통신부는 23일 사우디 주도 연합군이 호데이다주 통신 시설을 공습해 직원 17명이 숨지고 11명이 다쳤으며, 행정 건물과 직원 숙소, 모스크가 부서지고 수만 명의 통신과 인터넷이 끊겼다고 밝혔다. 사우디 측은 입장을 내지 않았다. 연합군은 22일 사우디 홍해 연안을 겨냥한 탄도미사일을 요격했다고 발표했다.\n\nAFP통신은 유엔 집계를 인용해 7월 휴전이 무너진 뒤 사망자가 1,600명을 넘고 실향민이 30만 명을 넘는다고 전했다.",
+  "numbers": [
+   "17명",
+   "11명"
+  ],
+  "note": "사상자 수는 후티 측 주장으로 AFP통신도 독립적으로 확인하지 못했다. 미확인. 휴전 붕괴 뒤 누적 수치는 유엔 원자료와 대조하지 못했다.",
+  "sources": [
+   {
+    "title": "AFP통신, The New Arab 게재 (11.23)",
+    "url": "https://www.newarab.com/news/yemens-houthis-say-saudi-attack-kills-17",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "예멘"
+ },
+ {
+  "id": "s-20261124-06",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "ssa",
+  "countries": [
+   "DR콩고",
+   "케냐"
+  ],
+  "places": [],
+  "orgs": [
+   "WHO",
+   "AU"
+  ],
+  "topics": [
+   "보건",
+   "분쟁",
+   "정치"
+  ],
+  "headline": "이투리 교전으로 에볼라 대응 인력이 병원 산부인과 병동에 24시간 넘게 고립… 확진 1만 1,762명, 사망 5,775명",
+  "summary": "분디부교 에볼라가 처음 확인된 곳과 가까운 이투리주의 한 병원 주변에서 격렬한 교전이 벌어져 세계보건기구 직원과 대응 인력이 산부인과 병동에서 24시간 넘게 대피했다. 테워드로스 사무총장은 22일 병원과 직원, 환자의 보호와 안전한 통행을 요구했다. 고립된 인원수와 교전 당사자는 공개되지 않았다.\n\n유엔 뉴스가 전한 20일 기준 집계는 확진 1만 1,762명, 사망 5,775명으로 8개 주 68개 보건구역에 걸쳐 있다. 이투리주가 확진 8,000명 이상, 사망 3,791명이다. 세계보건기구는 올해 DR콩고에서 의료 시설과 인력에 대한 공격을 87건 넘게 확인했다.\n\n22일 콩고공화국 오요에서 열린 4자 정상회의에서 케냐와 DR콩고는 대사를 다시 파견하고 공동위원회를 재가동하기로 했다. 아프리카연합 중재자인 토고 대통령이 참석했다.",
+  "numbers": [
+   "1만 1,762명",
+   "5,775명"
+  ],
+  "note": "20일 기준 집계는 유엔 뉴스 보도에 따른 것이며, 세계보건기구가 공개한 발생 소식은 17일 기준 수치까지만 담고 있다.",
+  "sources": [
+   {
+    "title": "유엔 뉴스 (11.23)",
+    "url": "https://news.un.org/en/story/2026/11/1168858",
+    "date": "11.23"
+   },
+   {
+    "title": "Al Jazeera (11.23)",
+    "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region",
+    "date": "11.23"
+   },
+   {
+    "title": "신화통신 (11.23)",
+    "url": "https://english.news.cn/20261123/e3e707bedfaa41d4a2df285f4f5046b0/c.html",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "DR콩고, 케냐"
+ },
+ {
+  "id": "s-20261124-07",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "ssa",
+  "countries": [
+   "수단"
+  ],
+  "places": [],
+  "orgs": [
+   "IOM"
+  ],
+  "topics": [
+   "실향",
+   "분쟁"
+  ],
+  "headline": "정부군 서코르도판 진격에 아부자바드 일대 주민 피란… 블루나일 신규 실향 5만 1천 명 넘는다는 추산",
+  "summary": "정부군이 알쿠와이를 장악하고 아부자바드 쪽으로 진격하면서 주민들이 걸어서 또는 당나귀 수레로 마을을 떠나고 있다. 현지 매체는 국제이주기구를 인용해 아부칼브에서 1,715명, 주변 6개 마을에서 1,400명이 피란했다고 전했다. 동다르푸르 카잔 자디드의 알나킬 캠프에는 약 650가구가 새로 도착했는데 약 400가구는 거처가 없고, 캠프의 유일한 급수 시설은 고장 났으며 진료소는 주 2일만 연다.\n\n블루나일주에서는 인도지원위원회가 다마진 쪽으로 새 피란 행렬이 이어진다고 밝혔고, 시민사회 단체는 신규 실향을 5만 1천 명 이상으로 추산했다.",
+  "numbers": [
+   "1,715명",
+   "1,400명",
+   "5만 1천 명"
+  ],
+  "note": "서코르도판 수치는 국제이주기구 경보 원문을 열지 못해 언론 인용으로만 확인했다. 블루나일과 캠프 수치는 현지 단체 추산이다. 미확인.",
+  "sources": [
+   {
+    "title": "Darfur24 (11.23)",
+    "url": "https://darfur24.com/en/2026/11/23/sudan-fighting-displaces-thousands-in-kordofan-blue-nile/",
+    "date": "11.23"
+   },
+   {
+    "title": "Radio Tamazuj (11.23)",
+    "url": "https://www.radiotamazuj.org/en/news/article/west-kordofan-idps-arrive-in-east-darfurs-khazan-jadeed",
+    "date": "11.23"
+   },
+   {
+    "title": "Radio Dabanga (11.23)",
+    "url": "https://www.dabangasudan.org/en/all-news/article/displacement-rises-in-west-kordofan-amid-deteriorating-security",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "수단"
+ },
+ {
+  "id": "s-20261124-08",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "ssa",
+  "countries": [
+   "남수단"
+  ],
+  "places": [],
+  "orgs": [],
+  "topics": [
+   "분쟁"
+  ],
+  "headline": "와랍주 톤즈이스트 가축 캠프 야간 피습, 당국자마다 사망 21~24명… 유니티주 무장세력 지목",
+  "summary": "무장 괴한들이 밤 10시쯤 톤즈이스트 카운티 볼볼 가축 캠프를 습격했다. 카운티 행정관은 Radio Tamazuj에 어린이 7명과 여성 3명을 포함해 23명이 숨졌다고 했고, 와랍주 공보장관은 Eye Radio에 21명이라고 밝혔다. 당국은 유니티주 마옌딧에서 온 야권 무장세력 연계 인원을 지목했으나 해당 세력 대변인은 가축 분쟁이라며 관여를 부인했다.\n\n빼앗긴 소는 되찾은 것으로 전해졌다. 부상자들은 현지 집단 간 긴장 탓에 로믹의 의료 시설로 가기 어려웠고, 와랍주는 보복 자제를 호소했다.",
+  "numbers": [
+   "23명",
+   "21명"
+  ],
+  "note": "사망자 수와 발생일(21일 또는 22일)이 당국자와 매체마다 다르고, 유엔 남수단 임무단이나 유엔 인도주의업무조정국의 확인은 찾지 못했다. 미확인.",
+  "sources": [
+   {
+    "title": "Radio Tamazuj (11.23)",
+    "url": "https://www.radiotamazuj.org/en/news/article/at-least-23-killed-in-cattle-camp-attack-in-tonj-east",
+    "date": "11.23"
+   },
+   {
+    "title": "Eye Radio (11.22)",
+    "url": "https://eyeradio.org/21-killed-including-women-and-children-in-cattle-camp-attack-in-tonj-east/",
+    "date": "11.22"
+   }
+  ],
+  "country_label": "남수단"
+ },
+ {
+  "id": "s-20261124-09",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "ssa",
+  "countries": [
+   "남수단"
+  ],
+  "places": [],
+  "orgs": [],
+  "topics": [
+   "보건",
+   "접근제한",
+   "보호"
+  ],
+  "headline": "국경없는의사회, 구급차 피랍 뒤 예이강 카운티 활동 최소 석 달 전면 중단… 카운티 유일 에볼라 격리 병동도 멈춰",
+  "summary": "국경없는의사회는 11월 17일부터 최소 3개월 동안 중앙에콰토리아주 예이강 카운티의 모든 활동을 멈춘다고 23일 밝혔다. 12일 예이 시내에서 약 5킬로미터 떨어진 곳에서 무장 괴한이 구급차를 세우고 운전사와 보건부 소속 조산사를 납치했으며, 두 사람은 14일 무사히 풀려났다. 2024년 이후 이 지역에서 단체 활동과 관련된 납치는 다섯 번째다.\n\n이번 중단으로 예이 시립병원과 잔수크 진료소 지원, 성폭력 생존자 진료, 카운티에 하나뿐인 10병상 에볼라 격리 병동이 멈춘다. 단체는 올해 1~10월 남수단에서 외래 진료 71만 9,349건을 했다.",
+  "numbers": [
+   "다섯 번째",
+   "10병상"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "국경없는의사회 (11.23)",
+    "url": "https://www.msf.org/south-sudan-msf-suspends-all-activities-yei-river-county-following-abduction",
+    "date": "11.23"
+   },
+   {
+    "title": "Radio Tamazuj (11.23)",
+    "url": "https://www.radiotamazuj.org/en/news/article/msf-suspends-operations-in-yei-after-abduction-of-two-health-workers",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "남수단"
+ },
+ {
+  "id": "s-20261124-10",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "ssa",
+  "countries": [
+   "소말리아",
+   "우간다"
+  ],
+  "places": [],
+  "orgs": [],
+  "topics": [
+   "정치"
+  ],
+  "headline": "하산 셰이크 대통령, 엔테베에서 무세베니와 회담… 선거 갈등 중재 수용 보도",
+  "summary": "하산 셰이크 모하무드 대통령이 23일 우간다 엔테베 대통령궁에서 무세베니 대통령을 만났다. Somali Guardian은 대통령이 정부와 야권 사이의 우간다 중재를 받아들이고 기존의 일방적 선거 계획을 접었으며, 대화는 모가디슈에서 열기로 했다고 보도했다.\n\n우간다는 11월 2일 양자 합의로 파병한 병력의 철수를 발표했고 2027년 말까지 아프리카연합 임무단에서도 빠질 계획이다. 우간다군은 모가디슈 남쪽 약 200킬로미터의 바라웨에서 이미 물러났다.",
+  "numbers": [
+   "2027년 말"
+  ],
+  "note": "회담과 무세베니의 대화 촉구는 두 매체가 함께 전했으나, 중재 수용과 선거 계획 철회는 한 매체의 보도이며 Horseed Media는 공식 발표에 새 합의가 없었다고 전했다. 미확인.",
+  "sources": [
+   {
+    "title": "Somali Guardian (11.23)",
+    "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-accepts-museveni-mediated-election-dialogue/",
+    "date": "11.23"
+   },
+   {
+    "title": "Horseed Media (11.23)",
+    "url": "https://horseedmedia.net/museveni-urges-somalia-to-embrace-national-unity-and-dialogue-amid-ugandas-planned-troop-withdrawal/427899/",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "소말리아, 우간다"
+ },
+ {
+  "id": "s-20261124-11",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-22",
+  "region": "ssa",
+  "countries": [
+   "차드",
+   "니제르"
+  ],
+  "places": [],
+  "orgs": [],
+  "topics": [
+   "실향"
+  ],
+  "headline": "니제르 디파에서 쫓겨난 마하미드 아랍계 1,000여 명, 차드 라크주 다부아로 피신",
+  "summary": "니제르 디파 지역에서 퇴거 명령을 받은 마하미드 아랍계 주민 150여 가구, 1,000명 이상이 차드 라크주 풀리 지구 다부아에 도착했다. 니제르 당국이 공동체 구성원 수천 명에게 12월 31일까지 떠나라고 통보한 터라 유입은 더 늘 전망이다. 도착한 가족들은 집이 부서지고 신분증을 빼앗겼다고 말하며 거처와 식량, 물, 진료가 필요하다. 차드 당국은 수용에 나섰지만 여력이 제한적이라고 밝혔다.",
+  "numbers": [
+   "1,000명 이상",
+   "12월 31일"
+  ],
+  "note": "수치는 현지 당국을 인용한 차드 매체 두 곳의 보도이며 유엔난민기구나 국제이주기구의 확인은 찾지 못했다. 미확인.",
+  "sources": [
+   {
+    "title": "Tchadinfos (11.22)",
+    "url": "https://tchadinfos.com/2026/11/22/plus-de-1000-arabes-venus-du-niger-trouvent-refuge-au-lac",
+    "date": "11.22"
+   },
+   {
+    "title": "Alwihda Info (11.22)",
+    "url": "https://alwihdainfo.com/plus-dun-millier-de-ressortissants-nigeriens-expulses-trouvent-refuge-a-daboua-au-tchad",
+    "date": "11.22"
+   }
+  ],
+  "country_label": "차드, 니제르"
+ },
+ {
+  "id": "s-20261124-12",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "ssa",
+  "countries": [
+   "나이지리아"
+  ],
+  "places": [],
+  "orgs": [],
+  "topics": [
+   "분쟁",
+   "보호"
+  ],
+  "headline": "니제르주 보르구 보복 공격 사망 64명 주장, 와와에서 38구 집단 매장… 경찰 \"확인 중\"",
+  "summary": "풀라니 목축민 단체는 21~22일 와와와 가다올리 일대 공동체를 겨냥한 보복 공격으로 64명이 숨졌다고 밝혔다. 주민들은 22일 와와에서 시신 38구를 집단 매장했다고 전했다. 발단은 21일 새벽 5시쯤 룸만바아레 마을 습격으로, 주 정부는 촌장을 포함해 5명이 숨졌다고 확인했다.\n\n주민들은 총과 칼을 든 무리가 사람이 있는 건물에 불을 질렀다고 증언했고 자경단이 의심받고 있다. 경찰은 보복 공격 보고를 확인하겠다고 했으며, 풀라니 인권 단체는 특정 종족에 대한 집단 처벌을 경계했다.",
+  "numbers": [
+   "64명",
+   "38구"
+  ],
+  "note": "64명은 목축민 단체의 주장으로 Reuters도 독립적으로 확인하지 못했다. 미확인. 공식 확인된 것은 첫 습격의 사망 5명, 부상 5명이다.",
+  "sources": [
+   {
+    "title": "Reuters, ThePrint 게재 (11.23)",
+    "url": "https://theprint.in/world/dozens-killed-in-weekend-attacks-in-nigerias-niger-state-residents-say/3106838/",
+    "date": "11.23"
+   },
+   {
+    "title": "Daily Trust (11.23)",
+    "url": "https://dailytrust.com/niger-64-killed-in-reprisal-over-village-heads-murder/",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "나이지리아"
+ },
+ {
+  "id": "s-20261124-13",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-22",
+  "region": "ssa",
+  "countries": [
+   "나이지리아"
+  ],
+  "places": [],
+  "orgs": [],
+  "topics": [
+   "재난"
+  ],
+  "headline": "바옐사주에서 장례 가던 배 전복, 시신 24구 수습… 수색 계속",
+  "summary": "20일 바옐사주 아야마에서 우쿠비에로 가던 조문객 배가 뒤집혔다. 국가재난관리청은 21일 시신 24구를 수습했고 수색과 구조가 이어지고 있다고 밝혔다. 탑승 인원은 파악되지 않았으며 경찰은 기관 고장 가능성을 보고 있다. 8월 소코토주 전복 사고에서는 최소 51명이 숨졌다.",
+  "numbers": [
+   "24구"
+  ],
+  "note": "구조된 생존자 수는 보도마다 달라 싣지 않았다.",
+  "sources": [
+   {
+    "title": "도이체벨레, allAfrica 게재 (11.22)",
+    "url": "https://allafrica.com/stories/202611230148.html",
+    "date": "11.22"
+   },
+   {
+    "title": "allAfrica (11.23)",
+    "url": "https://allafrica.com/stories/202611230153.html",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "나이지리아"
+ },
+ {
+  "id": "s-20261124-14",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "ssa",
+  "countries": [
+   "말리"
+  ],
+  "places": [],
+  "orgs": [],
+  "topics": [
+   "분쟁",
+   "보건"
+  ],
+  "headline": "국경없는의사회 \"니오노 공격 때 병원 피격, 보건 인력 포함 2명 사망\"… 중환자실 가동 중단",
+  "summary": "국경없는의사회는 23일 성명에서 21일 새벽 5시쯤부터 니오노와 몰로도에서 동시에 벌어진 공격이 보건부와 함께 운영하는 니오노 거점 보건센터까지 미쳤다고 밝혔다. 2명이 숨졌고 그중 1명은 보건 인력이다. 병원 안에서 보건 인력 2명과 보호자 2명, 5세 미만 아동 1명이 다쳤고, 의료진은 부상자 26명을 치료했다.\n\n중환자실은 완전히 멈췄고 다른 부서도 일부 파손됐으며 물탱크 4개가 부서졌다. 북부 니아푼케 보건센터에서는 아라베베 마을 드론 공격으로 다친 7~11세 어린이 3명이 치료받았다.",
+  "numbers": [
+   "2명",
+   "26명"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "국경없는의사회 (11.23)",
+    "url": "https://www.msf.org/msf-condemns-attacks-against-civilians-and-health-centre-mali",
+    "date": "11.23"
+   },
+   {
+    "title": "Studio Tamani (11.23)",
+    "url": "https://studiotamani.org/210617-les-titres-du-23-novembre-2026",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "말리"
+ },
+ {
+  "id": "s-20261124-15",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-22",
+  "region": "ssa",
+  "countries": [
+   "세네갈"
+  ],
+  "places": [],
+  "orgs": [],
+  "topics": [
+   "보호"
+  ],
+  "headline": "해군, 사흘간 대서양에서 이주민 1,007명 구조… 약 175명 탄 목선 열흘 넘게 실종 보도",
+  "summary": "세네갈군 공보국은 해군이 19~21일 자국 해역에서 이주민 1,007명을 구조했다고 밝혔다. 20~21일 함정 3척이 목선 7척에서 946명을 구했고 북부 해군기지가 61명을 더 도왔다.\n\n일간 리베라시옹은 23일 다카르 요프에서 출발한 약 175명을 태운 목선이 열흘 넘게 연락이 끊겼다고 보도했다. 당국은 22일까지 실종을 확인하지 않았다.",
+  "numbers": [
+   "1,007명",
+   "175명"
+  ],
+  "note": "구조 인원은 군 공식 발표로 확인했다. 실종 목선은 일간지 한 곳의 보도로 당국이나 국제이주기구의 확인이 없다. 미확인. 에티오피아, 에리트레아, 부룬디, 중앙아프리카공화국, 부르키나파소, 카메룬, 모잠비크, 짐바브웨: 확인된 새 보도 없음. 이 지역에서 이번 기간에 새로 나온 자금 충족률 수치는 찾지 못했다.",
+  "sources": [
+   {
+    "title": "Le Soleil, allAfrica 게재 (11.22)",
+    "url": "https://fr.allafrica.com/stories/202611230497.html",
+    "date": "11.22"
+   },
+   {
+    "title": "EmediaSN (11.23)",
+    "url": "https://emedia.sn/emigration-irreguliere-une-pirogue-transportant-175-jeunes-au-depart-de-yoff-portee-disparue",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "세네갈"
+ },
+ {
+  "id": "s-20261124-16",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "myanmar",
+  "countries": [
+   "미얀마"
+  ],
+  "places": [],
+  "orgs": [],
+  "topics": [
+   "정치",
+   "자금",
+   "보호"
+  ],
+  "headline": "영국, 로힝야 집단학살 공식 인정하고 장교 5명 제재… 항공유 공급 금지 입법 방침",
+  "summary": "영국 정부는 23일 국제사법재판소 판결에 따라 로힝야 집단학살을 공식 인정하고 미얀마군 고위 장교 5명에게 자산 동결과 입국 금지를 부과했다. 라카인을 관할하는 서부사령부의 현직과 전직 사령관이 포함됐다. 공습을 겨냥해 미얀마로 가는 항공유의 수출과 공급을 금지하는 법을 만들겠다고 밝혔고, 미얀마 대사대리를 초치하고 국방무관을 추방했다.\n\n영국은 라카인 주민 약 35만 명을 위한 인도적 지원 500만 파운드와 책임 규명 지원 300만 파운드를 추가로 약속했다. 영국과 협력국 외교장관들은 공동성명에서 미얀마가 구속력 있는 판결을 이행해야 한다고 밝혔다.",
+  "numbers": [
+   "5명",
+   "500만 파운드"
+  ],
+  "note": "공동성명 참여국은 AFP통신 보도로는 14개국, 영국 정부 발표문 기준으로는 13개국으로 서로 다르다.",
+  "sources": [
+   {
+    "title": "영국 정부 (11.23)",
+    "url": "https://www.gov.uk/government/news/uk-leads-global-action-with-major-new-measures-against-myanmar-military-following-landmark-genocide-judgment",
+    "date": "11.23"
+   },
+   {
+    "title": "AFP통신, Arab News 게재 (11.23)",
+    "url": "https://www.arabnews.com/world/14-countries-acknowledge-icj-ruling-on-rohingya-genocide-3013762",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "국제사법재판소 판결 후속"
+ },
+ {
+  "id": "s-20261124-17",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "myanmar",
+  "countries": [
+   "미얀마"
+  ],
+  "places": [],
+  "orgs": [],
+  "topics": [
+   "분쟁"
+  ],
+  "headline": "파욱토 마을에 폭탄 2발, 생후 5개월 영아 등 4명 사망",
+  "summary": "22일 오전 8시 30분쯤 군 전투기가 라카인주 파욱토 타운십 난텟쭌 마을에 폭탄 2발을 떨어뜨려 생후 5개월 영아와 16세 소녀 등 4명이 숨지고 1~75세 주민 9명이 다친 것으로 전해졌다. 인근 병원과 진료소도 앞서 폭격을 받아 치료받기 어렵다. 같은 소식지는 9월 4일~11월 22일 라카인에서 군 공격으로 숨진 민간인이 156명이라고 집계했다.",
+  "numbers": [
+   "4명",
+   "9명"
+  ],
+  "note": "현지 매체 번역 소식지 한 곳의 보도로 독립적으로 확인되지 않았다. 미확인. 유엔 인도주의업무조정국의 미얀마 최신 자료는 11월 17일자다.",
+  "sources": [
+   {
+    "title": "Moemaka (11.23)",
+    "url": "https://moemaka.net/eng/2026/11/november-23-2026-m-cdm-domestic-news/",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "라카인"
+ },
+ {
+  "id": "s-20261124-18",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-22",
+  "region": "myanmar",
+  "countries": [
+   "미얀마"
+  ],
+  "places": [],
+  "orgs": [],
+  "topics": [
+   "정치"
+  ],
+  "headline": "군정 \"징집 과정 금품 갈취 102명, 불법 강제 징집 97명 조치\"",
+  "summary": "군정 국방부는 22일 국영 매체를 통해 징집을 피하려는 사람에게 돈을 뜯거나 불법으로 붙잡아 둔 이들에게 법적 조치를 했다고 밝혔다. 10월 말 기준 금품 갈취 사건 관련자가 102명, 무단 강제 징집 혐의자가 97명이며 지방 관리도 포함됐다. AFP통신은 파코쿠 훈련소에 붙잡힌 가족을 빼내려 약 2,000달러를 냈지만 풀려나지 못한 사례를 전했다. 징집법은 2024년 2월 시행됐고 남성 18~35세, 여성 18~27세가 대상이다.",
+  "numbers": [
+   "102명",
+   "97명"
+  ],
+  "note": "수치는 군정의 자체 발표로 독립적으로 확인되지 않았다.",
+  "sources": [
+   {
+    "title": "AFP통신, Arab News 게재 (11.22)",
+    "url": "https://www.arabnews.pk/world/myanmar-says-combatting-graft-in-military-draft-process-3007787",
+    "date": "11.22"
+   }
+  ],
+  "country_label": "군부 정치"
+ },
+ {
+  "id": "s-20261124-19",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "myanmar",
+  "countries": [
+   "미얀마"
+  ],
+  "places": [],
+  "orgs": [],
+  "topics": [
+   "정치",
+   "보호"
+  ],
+  "headline": "저항세력 협의체 \"집단학살 혐의자가 수사 맡아선 안 돼\"… 방글라데시, 영국에 판결 이행 압박 협조 요청",
+  "summary": "저항세력 협의체인 연방민주연합 추진 조정위원회는 22일 성명에서 판결을 역사적 전환점으로 평가하고, 아라칸군을 포함한 라카인의 모든 당사자와 협력하겠다고 밝혔다. 소속 조직들은 관할 지역에서 민간인 보호와 구호 통행, 증거 보존을 약속했다. 같은 날 말레이시아 외교부는 판결을 존중하고 유엔, 이슬람협력기구, 아세안과 협력하겠다고 했다.\n\n23일 방글라데시 외교 담당 국무장관은 영국 고등판무관에게 판결 이행 압박에 힘을 보태 달라고 요청했고, 영국은 자발적 귀환 협력을 이어가겠다고 답했다. 24~26일 태국, 중국, 미얀마 3자 협의의 결과는 아직 나오지 않았다.",
+  "numbers": [
+   "24~26일"
+  ],
+  "note": "조정위원회와 말레이시아 성명은 소식지 한 곳을 통해 확인했으며 원문은 열지 못했다.",
+  "sources": [
+   {
+    "title": "Moemaka (11.23)",
+    "url": "https://moemaka.net/eng/2026/11/november-23-2026-m-cdm-domestic-news/",
+    "date": "11.23"
+   },
+   {
+    "title": "The Business Standard (11.23)",
+    "url": "https://www.tbsnews.net/foreign-policy/bangladesh-uk-discuss-climate-investment-rohingya-repatriation-1611921",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "저항세력, 방글라데시 국경"
+ },
+ {
+  "id": "s-20261124-20",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-22",
+  "region": "png",
+  "countries": [
+   "파푸아뉴기니"
+  ],
+  "places": [],
+  "orgs": [],
+  "topics": [
+   "분쟁"
+  ],
+  "headline": "상부 고지대 특별작전, 배치 뒤 100명 넘게 체포… 불법 무기 사면은 12월 25일 종료",
+  "summary": "앤서니 와감비 주니어 사령관은 경찰과 군 합동 특별작전대가 지난해 말 배치된 뒤 100명 넘게 체포했다고 밝혔다. 표적 수색으로 고성능 소총과 산탄총, 사제 총기, 탄약을 회수했으며 총기 폭력과 불법 도로 봉쇄, 필수 시설 파괴에 대테러법과 형법을 적용했다. 정부의 불법 무기 사면은 12월 25일에 끝나고, 수색과 체포는 그 뒤에도 이어진다. 작전 지역에는 쿠투부 유전과 액화천연가스 사업, 포게라 광산이 있다.",
+  "numbers": [
+   "100명 넘게",
+   "12월 25일"
+  ],
+  "note": "경찰 자체 집계를 현지 매체 한 곳이 전한 것으로 회수한 총기 수는 공개되지 않았다.",
+  "sources": [
+   {
+    "title": "Haus Bung (11.22)",
+    "url": "https://www.pnghauslain.com/upper-highlands-special-operations-records-over-100-arrests-clarifies-stance-on-illegal-arms-amnesty/",
+    "date": "11.22"
+   }
+  ],
+  "country_label": "치안"
+ },
+ {
+  "id": "s-20261124-21",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-22",
+  "region": "png",
+  "countries": [
+   "파푸아뉴기니"
+  ],
+  "places": [
+   "부건빌"
+  ],
+  "orgs": [],
+  "topics": [
+   "정치",
+   "자금"
+  ],
+  "headline": "호주 신임 고등판무관, 부임 뒤 첫 부건빌 방문… 자치정부 \"중앙정부와 어려운 정치 이행기\"",
+  "summary": "이달 초 부임한 제이미 이스비스터 호주 고등판무관이 21일 부카에 도착했다. 부건빌 자치정부 수석비서관은 호주가 부건빌 평화협정의 서명 증인임을 상기시키며, 부건빌이 중앙정부와 어려운 정치 이행기에 있고 의회의 결정을 앞두고 있다고 말했다. 고등판무관은 정치 지도자와 교회, 시민사회를 만나고 호주가 지원한 사업 현장을 둘러볼 예정이다.\n\n23일 파푸아뉴기니 자원에너지회의소는 리오틴토가 팡구나 광산 피해 대응 기금에 2억 5천만 달러를 내기로 한 약속을 환영했다. 기금은 11월 16일 발표됐고 광산 재개 여부와는 별개다.",
+  "numbers": [
+   "2억 5천만 달러"
+  ],
+  "note": "방문 소식은 현지 매체 한 곳의 보도다. 이번 기간 부족 분쟁, 가뭄, 총선 준비에 관한 새 보도는 확인되지 않았다.",
+  "sources": [
+   {
+    "title": "Haus Bung (11.22)",
+    "url": "https://www.pnghauslain.com/new-australian-high-commissioner-visits-bougainville/",
+    "date": "11.22"
+   },
+   {
+    "title": "Haus Bung (11.23)",
+    "url": "https://www.pnghauslain.com/pngcore-welcomes-panguna-mine-compensation-payment-commitment/",
+    "date": "11.23"
+   },
+   {
+    "title": "Rio Tinto (11.16)",
+    "url": "https://www.riotinto.com/en/news/releases/2026/rio-tinto-bcl-and-abg-to-establish-fund-to-support-panguna-mine-legacy-impact-response",
+    "date": "11.16"
+   }
+  ],
+  "country_label": "부건빌, 호주 협력"
+ },
+ {
+  "id": "s-20261124-22",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "intl",
+  "countries": [],
+  "places": [],
+  "orgs": [
+   "UNSC",
+   "WFP",
+   "OHCHR"
+  ],
+  "topics": [
+   "분쟁",
+   "식량",
+   "자금"
+  ],
+  "headline": "안보리 우크라이나 고위급 브리핑, 흑해 상선 공격 확산 경고… 세계식량계획 \"해상 요충지 차질로 730만 명 지원 위태\"",
+  "summary": "의장국 라트비아 주재로 23일 열린 회의에서 디칼로 정무평화구축 사무차장은 흑해 공격이 불가리아 배타적경제수역과 루마니아 연안 쪽으로 번지고 있다며 민간 항행과 항만 보호를 촉구했다. 유엔 인권최고대표사무소는 6~10월 상선 공격 164건을 기록했고 그중 15건을 검증해 선원 최소 21명의 사망을 확인했다. 2022년 2월 이후 검증된 민간인 사망은 1만 7,994명이다. 결의나 표결은 없었다.\n\n세계식량계획 사무총장은 같은 날 안보리에 호르무즈, 바브엘만데브, 흑해의 차질로 2027년 중반까지 비용이 7억 2,700만 달러 늘어 730만 명분의 식량 지원이 위태로워진다고 경고하고, 수단과 남수단, 소말리아 일부의 기근 위험을 들었다.",
+  "numbers": [
+   "164건",
+   "7억 2,700만 달러",
+   "730만 명"
+  ],
+  "note": "유엔 공식 회의 보도자료와 23일 대변인실 정오 브리핑 녹취록은 열지 못했다. 세계식량계획 발언은 Reuters 한 곳의 보도다.",
+  "sources": [
+   {
+    "title": "유엔 뉴스 (11.23)",
+    "url": "https://news.un.org/en/story/2026/11/1168859",
+    "date": "11.23"
+   },
+   {
+    "title": "The National (11.23)",
+    "url": "https://www.thenationalnews.com/news/2026/11/23/un-warns-black-sea-drone-attacks-threaten-food-exports-as-russia-ukraine-war-widens/",
+    "date": "11.23"
+   },
+   {
+    "title": "Reuters, ThePrint 게재 (11.23)",
+    "url": "https://theprint.in/world/un-food-agency-chief-warns-wars-jeopardize-food-aid-for-7-3-million-more-people/3106957",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "안보리, 세계식량계획"
+ },
+ {
+  "id": "s-20261124-23",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "intl",
+  "countries": [],
+  "places": [],
+  "orgs": [
+   "UNSG",
+   "COP"
+  ],
+  "topics": [
+   "정치",
+   "자금"
+  ],
+  "headline": "브리지타운 인공지능 안전 정상회의 폐막, 구테흐스 \"다자 위험 관리 체계 협상 시작하자\"… 기후총회 결과엔 실망 표명",
+  "summary": "23일 바베이도스와 함께 연 특별 정상회의를 마치며 사무총장은 공동 안전 조치와 공통 시험, 투명성 요건, 첨단 모델의 독립 평가, 모든 나라의 이행 지원을 담은 다자 체계 협상을 시작하자고 회원국에 촉구했다. 인공지능 역량 강화 기금과 자율무기 금지도 다시 제안했다. 7월 인공지능 거버넌스 국제 대화에 참여한 나라 가운데 111개국은 이런 논의에 처음 참여했다. 공식 결과 문서나 일정은 나오지 않았다.\n\n22일에는 안탈리아 기후총회가 합의에 이르지 못한 데 실망을 밝히고 화석연료 전환 가속을 촉구했다. Carbon Brief 분석에 따르면 포괄 결정문은 최소 32개국의 반대로 무산됐지만 정의로운 전환, 적응 목표, 탄소시장, 적응기금 관련 결정은 채택됐다. 손실과 피해 기금 약정은 3억 4,200만 달러로 요청액 28억 달러에 크게 못 미친다.",
+  "numbers": [
+   "111개국",
+   "3억 4,200만 달러"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "유엔 뉴스 (11.23)",
+    "url": "https://news.un.org/en/story/2026/11/1168861",
+    "date": "11.23"
+   },
+   {
+    "title": "유엔 뉴스 (11.22)",
+    "url": "https://news.un.org/en/story/2026/11/1168856",
+    "date": "11.22"
+   },
+   {
+    "title": "Carbon Brief (11.23)",
+    "url": "https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "사무총장"
+ },
+ {
+  "id": "s-20261124-24",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "intl",
+  "countries": [],
+  "places": [],
+  "orgs": [
+   "UNWOMEN"
+  ],
+  "topics": [
+   "보호"
+  ],
+  "headline": "폭력 피해 여성 가운데 경찰에 알리는 비율 7%… 54개국 자료 분석",
+  "summary": "유엔여성기구는 23일 54개국 자료를 분석한 보고서에서 신체적 또는 성적 폭력을 겪은 여성 가운데 경찰에 신고하는 비율이 7%, 어떤 형태로든 도움을 구하는 비율이 23%라고 밝혔다. 도움을 구하는 비율은 아시아 16%, 아프리카 31%, 중남미와 카리브 40%다. 신고된 사건의 63~97%는 유죄 판결로 이어지지 않는다. 보고서는 11월 25일~12월 10일 여성폭력 추방 16일 행동에 맞춰 나왔다.",
+  "numbers": [
+   "7%",
+   "23%"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "유엔여성기구 (11.23)",
+    "url": "https://www.unwomen.org/en/news-stories/press-release/2026/11/only-seven-per-cent-of-women-survivors-of-violence-go-to-the-police-as-justice-fails-them-from-the-first-report-to-the-courtroom",
+    "date": "11.23"
+   }
+  ],
+  "country_label": "유엔여성기구"
+ },
+ {
+  "id": "s-20261124-25",
+  "issue": 22,
+  "issue_date": "2026-11-24",
+  "date": "2026-11-23",
+  "region": "intl",
+  "countries": [],
+  "places": [],
+  "orgs": [
+   "KOR",
+   "COP",
+   "UNSC",
+   "UNWOMEN"
+  ],
+  "topics": [
+   "정치"
+  ],
+  "headline": "외교부, 기후총회 결과 발표… 개발협력주간 23~27일, 25일 개발협력의 날 기념식",
+  "summary": "외교부는 23일 안탈리아 기후총회 결과 자료에서 호주와의 탈탄소 양해각서와 공동 제출문, 네팔과의 기후협력 협정, 2028년 부산 유엔 해양총회 지원을 위한 유엔환경계획과의 의향서를 성과로 들었다. 한국은 적응기금 이사회에 4회 연속 진출했다. 국무조정실은 23~27일 개발협력주간을 열고 25일 개발협력의 날 기념식을 한다. 27일에는 국제이주기구 세미나가 예정돼 있다.\n\n24일 안보리는 기술 변화와 분쟁 해결을 주제로 공개 토의를 열고, 유엔에이즈계획은 세계 에이즈의 날 보고서를 낸다(한국 시간 오후 8시 공개). 25일 유엔여성기구와 유엔마약범죄사무소가 여성 살해 보고서를 내고, 30일 안보리가 가자 평화위원회 반기 보고서를 심의할 예정이다. 제네바 기업과 인권 포럼은 25일까지 이어진다.",
+  "numbers": [
+   "4회 연속",
+   "30일"
+  ],
+  "note": "21~24일 한국 정부의 새 인도적 지원이나 국제기구 기여 발표는 확인되지 않았다. 외교부 누리집은 열지 못해 정부 자료를 옮긴 국내 매체로 확인했다. 30일 안보리 일정은 11월 초 의장 기자회견 기준이라 바뀌었을 수 있다.",
+  "sources": [
+   {
+    "title": "지엔엔뉴스통신 (11.23)",
+    "url": "https://www.gnnnews.kr/222148",
+    "date": "11.23"
+   },
+   {
+    "title": "지엔엔뉴스통신 (11.23)",
+    "url": "https://www.gnnnews.kr/221512",
+    "date": "11.23"
+   },
+   {
+    "title": "라트비아 공영방송 (11.23)",
+    "url": "https://eng.lsm.lv/article/politics/president/23.11.2026-president-rinkevics-to-give-speech-at-united-nations.a672998/",
+    "date": "11.23"
+   },
+   {
+    "title": "유엔에이즈계획 (11.19)",
+    "url": "https://unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2026/november/20261119_MA_WAD26_report",
+    "date": "11.19"
+   },
+   {
+    "title": "유엔여성기구 (11.16)",
+    "url": "https://www.unwomen.org/en/news-stories/media-advisory/2026/11/media-advisory-international-day-for-the-elimination-of-violence-against-women-and-16-days-of-activism-2026",
+    "date": "11.16"
+   }
+  ],
+  "country_label": "한국 정부, 이번 주 일정"
  }
 ]
