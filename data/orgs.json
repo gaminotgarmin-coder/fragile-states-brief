@@ -522,5 +522,16 @@
    "Education Cannot Wait",
    "교육은 기다릴 수 없다"
   ]
+ },
+ {
+  "code": "UNAIDS",
+  "name_ko": "유엔에이즈계획",
+  "name_en": "UNAIDS",
+  "group": "UN 기구",
+  "koica_partner": false,
+  "aliases": [
+   "UNAIDS",
+   "유엔에이즈계획"
+  ]
  }
 ]

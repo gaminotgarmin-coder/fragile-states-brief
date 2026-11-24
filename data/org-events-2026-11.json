@@ -4336,5 +4336,247 @@
   "countries": [
    "대한민국"
   ]
+ },
+ {
+  "id": "o-20261125-01",
+  "issue": 23,
+  "issue_date": "2026-11-25",
+  "date": "2026-11-24",
+  "org": "UNSC",
+  "also": [
+   "UNSG",
+   "ICRC"
+  ],
+  "type": "회의",
+  "title": "안보리 제10278차 회의, 기술 변화와 분쟁 해결 고위급 공개 토의… 결과 문서 없음",
+  "summary": "의장국 라트비아의 린케비치 대통령이 주재했고 구테흐스 사무총장, 국제적십자위원회 총재 등이 보고했다. 사무총장은 군사 인공지능과 자율무기, 허위 정보, 통제되지 않는 개발 경쟁을 위험으로 꼽고 법적 구속력 있는 자율살상무기 문서의 조속한 협상을 촉구했다.\n\n결의나 의장성명은 채택되지 않았다. 25일에는 영국 요청으로 미얀마 비공개 협의가 예정돼 있다.",
+  "numbers": [
+   "제10278차",
+   "11월 25일"
+  ],
+  "note": "사무총장 발언은 언론 보도로 확인했다. 미얀마 협의 일정은 20일 보도 기준이며 결과는 아직 없다.",
+  "sources": [
+   {
+    "title": "Security Council Report (11.23)",
+    "url": "https://www.securitycouncilreport.org/whatsinblue/2026/11/conflict-resolution-and-emerging-technologies-high-level-open-debate.php",
+    "date": "11.23"
+   },
+   {
+    "title": "Express Tribune (11.24)",
+    "url": "https://tribune.com.pk/story/2642120/un-chief-warns-ai-could-fuel-conflict-calls-for-urgent-action-on-autonomous-weapons",
+    "date": "11.24"
+   }
+  ],
+  "countries": []
+ },
+ {
+  "id": "o-20261125-02",
+  "issue": 23,
+  "issue_date": "2026-11-25",
+  "date": "2026-11-24",
+  "org": "UNAIDS",
+  "also": [],
+  "type": "보고서",
+  "title": "유엔에이즈계획 세계 에이즈의 날 보고서, 저소득과 중소득국 대응 재원 10억 달러 넘게 감소",
+  "summary": "감염인은 4,000만 명, 치료를 받는 사람은 3,210만 명이며 2025년 신규 감염 120만 명, 관련 사망 57만 명이다. 저소득, 중소득국 대응 재원은 2025년에 10억 달러 넘게 줄었고 연간 부족액은 43억 달러다.\n\n대응 재원의 대외 의존도는 나이지리아 98%, 모잠비크 94%, 우간다 80%다.",
+  "numbers": [
+   "4,000만 명",
+   "3,210만 명",
+   "43억 달러"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "유엔에이즈계획 (11.24)",
+    "url": "https://www.unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2026/november/20261124_PR_GAU26_report",
+    "date": "11.24"
+   }
+  ],
+  "countries": [
+   "나이지리아",
+   "모잠비크",
+   "우간다"
+  ]
+ },
+ {
+  "id": "o-20261125-03",
+  "issue": 23,
+  "issue_date": "2026-11-25",
+  "date": "2026-11-24",
+  "org": "UNWOMEN",
+  "also": [],
+  "type": "보고서",
+  "title": "유엔여성기구와 유엔마약범죄사무소, 2025년 여성과 소녀 4만 7천 명이 배우자나 가족에게 살해됐다고 발표",
+  "summary": "여성폭력 추방의 날을 하루 앞두고 낸 자료다. 고의 살인 여성 피해자 약 7만 8천 명의 60%이며 하루 129명꼴이다. 지역별로는 아프리카 2만 2,100명, 아시아 1만 5,100명, 미주 7,400명 순이다.\n\n2024년 추정치 5만 명보다 줄었으나 실제 감소보다 자료 개선의 영향이 크다는 설명이다.",
+  "numbers": [
+   "4만 7,000명",
+   "하루 129명",
+   "122개국"
+  ],
+  "note": "기구 누리집 원문은 열지 못해 이를 보도한 매체 두 곳으로 수치를 확인했다.",
+  "sources": [
+   {
+    "title": "Al Jazeera (11.24)",
+    "url": "https://www.aljazeera.com/news/2026/11/24/five-women-killed-every-hour-globally-by-partner-relative-in-2025-un",
+    "date": "11.24"
+   },
+   {
+    "title": "RTÉ (11.24)",
+    "url": "https://www.rte.ie/news/world/2026/1124/1600397-women-killed-report/",
+    "date": "11.24"
+   }
+  ],
+  "countries": []
+ },
+ {
+  "id": "o-20261125-04",
+  "issue": 23,
+  "issue_date": "2026-11-25",
+  "date": "2026-11-24",
+  "org": "UNICEF",
+  "also": [],
+  "type": "보고서",
+  "title": "유니세프, 에볼라 유행 이투리 여성 1,062명 조사 공개… 보호 서비스 재원 76% 부족",
+  "summary": "8월 28일~10월 15일 이투리주 15세 이상 여성과 소녀를 조사한 결과 10명 중 6명 가까이가 유행 뒤 폭력이나 학대가 늘거나 새로 생겼다고 답했다. 도움을 구한 사람의 절반 가까이는 지원을 받지 못했다.\n\n안전 공간 8곳 방문은 1~3월 1,183건에서 7~9월 3,548건으로 늘었다. 24일 유엔 제네바 정례 브리핑에서 발표됐다.",
+  "numbers": [
+   "1,062명",
+   "3,548건",
+   "76%"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "유니세프 (11.24)",
+    "url": "https://www.unicef.ca/en/press-release/nearly-6-10-women-and-adolescent-girls-surveyed-ebola-hit-ituri-report-increase",
+    "date": "11.24"
+   },
+   {
+    "title": "유엔 제네바 사무소 (11.24)",
+    "url": "https://www.unognewsroom.org/story/en/3333/un-geneva-press-briefing-24-november-2026",
+    "date": "11.24"
+   }
+  ],
+  "countries": [
+   "DR콩고"
+  ]
+ },
+ {
+  "id": "o-20261125-05",
+  "issue": 23,
+  "issue_date": "2026-11-25",
+  "date": "2026-11-23",
+  "org": "UNSG",
+  "also": [],
+  "type": "성명",
+  "title": "사무총장, 중동 비핵 및 대량살상무기 금지 지대 회의 제7차 회기 결과 환영",
+  "summary": "사무총장 대변인은 16~20일 유엔 본부에서 오만 주재로 열린 제7차 회기가 역내 긴장 속에서도 향후 조약을 향해 건설적으로 논의했다고 평가하고 회기 간 작업을 이어 가라고 촉구했다.\n\n제8차 회기 의장으로는 카타르 유엔 대사가 지명됐다.",
+  "numbers": [
+   "제7차 회기",
+   "11월 16~20일"
+  ],
+  "note": "",
+  "sources": [
+   {
+    "title": "유엔 보도자료 (11.23)",
+    "url": "https://press.un.org/en/2026/sgsm23383.doc.htm",
+    "date": "11.23"
+   }
+  ],
+  "countries": []
+ },
+ {
+  "id": "o-20261125-06",
+  "issue": 23,
+  "issue_date": "2026-11-25",
+  "date": "2026-11-23",
+  "org": "OCHA",
+  "also": [
+   "IOM",
+   "WFP"
+  ],
+  "type": "성명",
+  "title": "인도주의업무조정국, 하르툼 공습 민간인 사망 4명 집계… 수단 호소 충족률 51%",
+  "summary": "22일 하르툼, 옴두르만, 제벨 아울리아 공습으로 민간인 4명이 숨지고 약 10명이 다쳤으며 유엔 건물이 파손됐다. 국제이주기구는 20~21일 서코르도판 아부자바드에서 6,400명 넘게 피란했다고 집계했다.\n\n세계식량계획 조사에서 현지 식량 바구니 값은 한 달 새 24% 올랐다. 수단 인도적 호소 약 28억 6천만 달러의 충족률은 51%다.",
+  "numbers": [
+   "4명",
+   "6,400명",
+   "51%"
+  ],
+  "note": "유엔 수치는 이를 인용한 매체 두 곳으로 확인했고 원문은 열지 못했다.",
+  "sources": [
+   {
+    "title": "Radio Dabanga (11.24)",
+    "url": "https://www.dabangasudan.org/en/all-news/article/khartoum-drone-attacks-draw-chorus-of-intl-condemnation",
+    "date": "11.24"
+   },
+   {
+    "title": "신화통신, Daijiworld 전재 (11.24)",
+    "url": "https://daijiworld.com/news/newsDisplay?newsID=1336173",
+    "date": "11.24"
+   }
+  ],
+  "countries": [
+   "수단"
+  ]
+ },
+ {
+  "id": "o-20261125-07",
+  "issue": 23,
+  "issue_date": "2026-11-25",
+  "date": "2026-11-24",
+  "org": "IOM",
+  "also": [
+   "OCHA"
+  ],
+  "type": "보고서",
+  "title": "국제이주기구, 예멘 8월 이후 실향 36만 4,264명 집계… 타이즈 진입로는 낮 일부 시간만 개방",
+  "summary": "8월 1일~11월 21일 6만 697가구가 실향했고 타이즈 40%, 라히즈 27%, 아덴 20% 순이다. 유엔 대변인은 지난 한 주 타이즈 시내 진입로가 제한적으로만 열려 식량과 상업 물자 공급이 차질을 빚었다고 밝혔다.\n\n유엔과 협력 기관은 8월 이후 실향 가구의 약 70%인 30만 명 가까이에 지원을 전달했다.",
+  "numbers": [
+   "36만 4,264명",
+   "6만 697가구",
+   "약 70%"
+  ],
+  "note": "국제이주기구 자료를 옮긴 매체로 확인했고 원문은 열지 못했다.",
+  "sources": [
+   {
+    "title": "Sabq (11.24)",
+    "url": "https://sabq.org/en/article/un-360000-yemenis-displaced-since-august-with-taiz-hosting-the-most",
+    "date": "11.24"
+   },
+   {
+    "title": "AP통신, Local10 전재 (11.24)",
+    "url": "https://www.local10.com/news/world/2026/11/24/houthi-rebels-close-in-on-aden-as-yemeni-forces-dig-in-behind-a-fortified-line/",
+    "date": "11.24"
+   }
+  ],
+  "countries": [
+   "예멘"
+  ]
+ },
+ {
+  "id": "o-20261125-08",
+  "issue": 23,
+  "issue_date": "2026-11-25",
+  "date": "2026-11-25",
+  "org": "KOR",
+  "also": [],
+  "type": "일정",
+  "title": "25일 오전 10시 서울에서 개발협력의 날 기념식, 개발협력주간은 27일까지",
+  "summary": "국무조정실 주관 개발협력주간(23~27일)의 일환으로 25일 기념식에서 국무총리 기념사와 유공자 포상이 예정돼 있다. 26일 과학기술과 디지털 분야 토론회, 27일 국제이주기구 세미나가 이어진다.",
+  "numbers": [
+   "11월 25일",
+   "23~27일"
+  ],
+  "note": "행사 결과는 아직 발표되지 않았다. 23~24일 새 인도적 지원이나 국제기구 기여 발표는 확인되지 않았다.",
+  "sources": [
+   {
+    "title": "지엔엔뉴스통신 (11.23)",
+    "url": "https://www.gnnnews.kr/221512",
+    "date": "11.23"
+   }
+  ],
+  "countries": [
+   "대한민국"
+  ]
  }
 ]
