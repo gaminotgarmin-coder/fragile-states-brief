@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-25",
- "latest_issue": 23,
- "latest_brief_url": "https://claude.ai/artifact/8pgL7gXtLyq7i7cDe6M7ea",
+ "updated": "2026-11-26",
+ "latest_issue": 24,
+ "latest_brief_url": "https://claude.ai/artifact/VdcNDfwxrFL2rz7PgjLC9d",
  "site_url": "https://fragile-states-brief.vercel.app",
  "months": [
   "2026-10",
   "2026-11"
  ],
  "counts": {
-  "stories": 559,
-  "org_events": 164
+  "stories": 585,
+  "org_events": 172
  }
 }
